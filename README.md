@@ -18,7 +18,12 @@
 <a href="https://git.io/wwdada">他们的改变来自法轮大法</a>
 <hr>
 <div align=center><a href="https://git.io/dtw"><img src="img/dtwapp.jpg"></a></div>
-<hr>
+
+<div align=center>
+<img src="img/b_ornament_29_0M.png" width=880></div>
+</p>
+<div align=center><img src="img/b6-3-600x470.jpg" width=880> </div></p>
+
 <table>
   <tr>
     <td>
@@ -38,11 +43,11 @@
 <img src="img/true (1).jpg" width=680></div>
 </p>
 
-<a href=#list><h6 align="right">回目錄</h6></a>
+
 <div align=center>
 <img src="img/b_ornament_29_0M.png" width=880></div>
 </p>
-<a name=◆◆◆◆◆1><div align=center> <img src="img/20170322094103_64504.jpg" width=880> </a>  </div></p>
+<div align=center> <img src="img/20170322094103_64504.jpg" width=880>  </div></p>
 <div align=center>
 <img src="img/td2.jpg" width=480></div>
 </p>
