@@ -19,9 +19,7 @@
 <hr>
 <div align=center><a href="https://git.io/dtw"><img src="img/dtwapp.jpg"></a></div>
 
-<div align=center>
-<img src="img/b_ornament_29_0M.png" width=880></div>
-</p>
+<hr>
 <div align=center><img src="img/b6-3-600x470.jpg" width=880> </div></p>
 
 <table>
