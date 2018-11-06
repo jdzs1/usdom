@@ -42,9 +42,7 @@
 </p>
 
 
-<div align=center>
-<img src="img/b_ornament_29_0M.png" width=880></div>
-</p>
+<hr>
 <div align=center> <img src="img/20170322094103_64504.jpg" width=880>  </div></p>
 <div align=center>
 <img src="img/td2.jpg" width=480></div>
