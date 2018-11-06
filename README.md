@@ -1,4 +1,4 @@
-a href="https://git.io/zaasfa"><img src="img/92p58PICwi8.png" width=880></a>
+<a href="https://git.io/zaasfa"><img src="img/92p58PICwi8.png" width=780></a>
 <hr>
 
 <b>九评三退：</b><br>
@@ -20,7 +20,7 @@ a href="https://git.io/zaasfa"><img src="img/92p58PICwi8.png" width=880></a>
 <div align=center><a href="https://git.io/dtw"><img src="img/dtwapp.jpg"></a></div>
 
 <hr>
-<div align=center><img src="img/b6-3-600x470.jpg" width=880> </div></p>
+<div align=center><img src="img/b6-3-600x470.jpg" width=780> </div></p>
 
 <table>
   <tr>
