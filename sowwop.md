@@ -497,7 +497,7 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=b><h2> 收回曾在无知下发过的毒誓吧！ </a>  </h2></div> 
+<a name=b><h2>净真：收回曾在无知下发过的毒誓吧！ </a>  </h2></div> 
  <div align=center>
 <img src="img/p5652651a578500506.jpg" width=480>
 </div>  
