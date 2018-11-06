@@ -541,7 +541,7 @@
 
 ( 鉴于大陆的特殊情况，从中国大陆退党退团的人士，用笔名、小名一样有效 )</p>
 <div align=center>
-<img src="img/b_ornament_86_0M.png" width=680></div>
+<img src="img/b_ornament_86_0M.png" width=580></div>
 </p>
 * 退党、退团、退队电话：</p>
 利用国际长途电话告诉对方要退出的类别和声明人的名字 </p>
@@ -559,20 +559,20 @@
 请大家互相通知立志退出中共的中国民众继续打退党热线电话， 把握这稍纵即逝的良机， 给自己留下美好的未来。</p>
 
 <div align=center>
-<img src="img/b_ornament_86_0M.png" width=680></div>
+<img src="img/b_ornament_86_0M.png" width=580></div>
 </p>
 * 退退党、退团、退队传真：</p>
 将声明通过传真发到</p>
 　001-510-372-0176,　001-201-625-6301</p>
  
  <div align=center>
-<img src="img/b_ornament_86_0M.png" width=680></div>
+<img src="img/b_ornament_86_0M.png" width=580></div>
 </p>
 * 进入以下网址,访问大纪元退党网站。 </p>
 https://git.io/722 请复制后，用谷歌浏览器访问。</p>
 
 <div align=center>
-<img src="img/b_ornament_86_0M.png" width=680></div>
+<img src="img/b_ornament_86_0M.png" width=580></div>
 </p>
 * 您也可以利用出国的机会，将三退声明和人员名单在国外通过上述方式发出来。</p>
 * 暂时无法用以上管道声明退党, 可用笔名、化名先将声明张贴在公共场所，先起到公开表明心意的作用，以后找机会上网发表声明。</p>
