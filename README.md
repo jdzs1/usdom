@@ -20,7 +20,7 @@
 <div align=center><a href="https://git.io/dtw"><img src="img/dtwapp.jpg"></a></div>
 
 <hr>
-<div align=center><img src="img/b6-3-600x470.jpg" width=780> </div></p>
+<div align=center><img src="img/b6-3-600x470.jpg" width=880> </div></p>
 
 <table>
   <tr>
