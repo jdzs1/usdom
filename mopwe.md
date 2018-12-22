@@ -1,4 +1,4 @@
-<div align="center"><img src="images/3636.png" width=880>
+<div align="center"><img src="img/3636.png" width=880>
  
 <h3> 大陆播出时间：</h3>
 
@@ -38,7 +38,7 @@
 <h3>中国大陆必须透过翻墙收看 翻墙下载 https://git.io/dici</h3></div>
 </p>
 <div align=center>
-<img src="images/b_illust_91_0M.png" width=880></div>
+<img src="img/b_illust_91_0M.png" width=880></div>
 </p>
 
 
