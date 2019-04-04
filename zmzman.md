@@ -209,12 +209,13 @@ https://zh.wikipedia.org/zh-cn/普遍管辖权</p>
 </table>
 
 
-<img src="img/2019-04-04_165558-1.jpg"></div>
+<img src="img/2019-04-04_165558-2.jpg">
 </p>
 <table>
 <tr>
 <td width=900>
 <h3 align="center"><b>「反人类罪」追责无限期 中国仍有罪行正在发生</b></h3>
+<div align="center">
 <img src="img/2019-04-04_223634.jpg"></div>
 </p>
 
