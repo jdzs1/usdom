@@ -665,7 +665,7 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 </table>
 </p>
 
-
+<img src="img/2019-04-03_21565-1.jpg">
 <table>
 <tr>
 <td>
