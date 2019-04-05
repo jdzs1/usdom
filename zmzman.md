@@ -765,17 +765,17 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 【明慧网二零一九年三月二十九日】（明慧记者方元英国伦敦采访报道）二零一九年三月二十六日上午，“中（共）国强摘活体器官（Forced live organ extraction in China ）”辩论会在英国议会大厦威斯敏斯特厅（WestminsterHall， Houses of Parliament）举行。</p>
 <div align="center">
 <img src="img/2019-3-28-uk-houseofpar-1--ss.jpg"></div>
-<h4 align="center">图1：二零一九年三月二十六日，“中（共）国强摘活体器官（Forced live organ extraction in China）”辩论会在英国议会大厦举行。</h4></p>
+<div align="center">图1：二零一九年三月二十六日，“中（共）国强摘活体器官（Forced live organ extraction in China）”辩论会在英国议会大厦举行。</div></p>
 
 <div align="center">
 <img src="img/2019-3-28-uk-houseofpar-2--ss.jpg"></div>
-<h4 align="center">图2：国会议员吉姆·香农（Jim Shannon MP）。</h4></p>
+<div align="center">图2：国会议员吉姆·香农（Jim Shannon MP）。</div></p>
 
-辩论会由英议会多党派宗教和信仰自由小组主席、国会议员吉姆·香农（Jim Shannon MP，chair of the all-party parliamentary group on freedom of religion and belief）发起举办，十位来自多个政党代表不同区域的英国国会议员在辩论会上发言，强烈谴责中共活摘良心犯器官罪行及其对法轮功的长期迫害，呼吁英国政府与国际社会一起，迅速开展独立调查并进一步采取行动制止中共迫害，推动英国政府立法禁止英国公民去中国“器官旅游”。
+辩论会由英议会多党派宗教和信仰自由小组主席、国会议员吉姆·香农（Jim Shannon MP，chair of the all-party parliamentary group on freedom of religion and belief）发起举办，十位来自多个政党代表不同区域的英国国会议员在辩论会上发言，强烈谴责中共活摘良心犯器官罪行及其对法轮功的长期迫害，呼吁英国政府与国际社会一起，迅速开展独立调查并进一步采取行动制止中共迫害，推动英国政府立法禁止英国公民去中国“器官旅游”。</p>
 
-英国外交部亚太事务次长马克·菲尔德（Mark Field，The Minister for Asia and the Pacific ）出席辩论会就此重大议题应答议员提问。关注支持中国宗教自由和人权事业的各界人士出席旁听了这场重要的辩论会，同时，在英国议会网站上可以看到辩论会的全程电视影像直播。
+英国外交部亚太事务次长马克·菲尔德（Mark Field，The Minister for Asia and the Pacific ）出席辩论会就此重大议题应答议员提问。关注支持中国宗教自由和人权事业的各界人士出席旁听了这场重要的辩论会，同时，在英国议会网站上可以看到辩论会的全程电视影像直播。</p>
 
-<b>强烈谴责中共邪恶暴行</b>
+<b>强烈谴责中共邪恶暴行</b></p>
 香农议员在开场发言中严正谴责中共对法轮功学员以及其他宗教和少数民族团体的人权迫害和宗教迫害：“我们这场关于活摘器官的辩论针对的是反人类罪（crimes against humanity），以及一个自二战纳粹以来最大规模迫害宗教团体的政权。”</p>
 
 “一个联合国安理会常任理事国，正在象对待牲畜一样对待人类信仰群体，这是完全不可接受的（邪恶暴行）。”</p>
