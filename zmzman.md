@@ -10,9 +10,23 @@
 <img src="img/2016030.jpg">
 </p>
 
+<a name=list><b>目录</b><p>
+<table>
+<tr>
+<td width=900>
+<a href="#1">➤ 反人类罪、群体灭绝罪：在中国还在进行的罪行</a></td><br>
+<a href="#2">➤ 群体灭绝罪、反人类罪、酷刑罪 一一 简介</a></td><br>
 
 
-<img src="img/2019-04-04_215215-3.jpg">
+
+
+
+</tr>
+</table>
+</p>
+
+<a name=1>
+<img src="img/2019-04-04_215215-3.jpg"></a>
 </p>
 <table>
 <tr>
@@ -97,8 +111,8 @@
 </td></tr>
 </table>
 
-
-<img src="img/2019-04-04_165418-3.jpg">
+<a name=2>
+<img src="img/2019-04-04_165418-3.jpg"></a>
 </p>
 
 <table>
