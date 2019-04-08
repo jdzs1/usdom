@@ -77,7 +77,8 @@
 </table>
 </p>
 
-<img src="img/b_ornament_30_0M.png"></p>
+<div align="center">
+<img src="img/b_ornament_30_0M.png"></div></p>
 
 <a name=1>
 <img src="img/2019-04-04_215215-3.jpg"></a>
@@ -250,7 +251,7 @@ https://zh.wikipedia.org/zh-cn/普遍管辖权</p>
 </td></tr>
 </table>
 
-
+<a name=3>
 <img src="img/2018-06-30_214508-2.jpg">
 
 <table>
@@ -309,7 +310,7 @@ https://zh.wikipedia.org/zh-cn/普遍管辖权</p>
 </td></tr>
 </table>
 </p>
-
+<a name=4>
 <img src="img/2019-04-05_213248-1.jpg">
 </p>
 <table>
@@ -360,7 +361,7 @@ https://zh.wikipedia.org/zh-cn/普遍管辖权</p>
 <table>
 <tr>
 <td width=900>
-<h3 align="center"><b>全球逾303万人举报江泽民反人类罪行</b></h3>
+<a name=5><h3 align="center"><b>全球逾303万人举报江泽民反人类罪行</a></b></h3>
  <div align="center">
 <img src="img/2019-04-06_134901.jpg"></div></p>
 【新唐人2018年12月10日讯】全球逾303万人举报江泽民反人类罪行</p>
@@ -395,7 +396,8 @@ https://zh.wikipedia.org/zh-cn/普遍管辖权</p>
 </table>
 </p>
 
-<img src="img/2019-04-04_232746.jpg">
+<a name=6>
+<img src="img/2019-04-04_232746.jpg"></a>
 </p>
 
 <table>
@@ -555,7 +557,8 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 </table>
 </p>
 
-<img src="img/2019-04-06_144631.jpg"></p>
+<a name=7>
+<img src="img/2019-04-06_144631.jpg"></a></p>
 
 <table>
 <tr>
@@ -777,7 +780,8 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 </table>
 </p>
 
-<img src="img/2019-04-05_191510.jpg">
+<a name=8>
+<img src="img/2019-04-05_191510.jpg"></a></p>
 
 <table>
 <tr>
@@ -920,7 +924,9 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 </table>
 </p>
 
-<img src="img/2019-04-05_204451-3.jpg">
+<a name=9>
+<img src="img/2019-04-05_204451-3.jpg"></a></p>
+
 <table>
 <tr>
 <td width=900>
@@ -963,7 +969,9 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 </table>
 </p>
 
-<img src="img/2019-04-05_22200-1.jpg">
+<a name=10>
+<img src="img/2019-04-05_22200-1.jpg"></a></p>
+
 <table>
 <tr>
 <td width=900>
@@ -998,7 +1006,9 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 </table>
 </p>
 
-<img src="img/2019-04-03_21565-1.jpg">
+<a name=11>
+<img src="img/2019-04-03_21565-1.jpg"></a></p>
+
 <table>
 <tr>
 <td>
@@ -1041,9 +1051,9 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 <img src="img/2019-04-03_161806.jpg">
 </p>
 
+<a name=12>
+<img src="img/2019-04-04_16555-2.jpg"></a></p>
 
-<img src="img/2019-04-04_16555-2.jpg">
-</p>
 
 <table>
 <tr>
@@ -1087,8 +1097,8 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 </p>
 
 
-
-<img src="img/2019-04-05_231818-1.jpg">
+<a name=13>
+<img src="img/2019-04-05_231818-1.jpg"></a>
 </p>
 
 <table>
