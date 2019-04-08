@@ -165,7 +165,7 @@
 </p>
 </td></tr>
 </table>
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回目錄</a></h4>
 
 <a name=2>
 <img src="img/2019-04-04_165418-3.jpg"></a>
@@ -251,7 +251,7 @@ https://zh.wikipedia.org/zh-cn/普遍管辖权</p>
 
 </td></tr>
 </table>
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回目錄</a></h4>
 
 
 <a name=3>
@@ -314,7 +314,7 @@ https://zh.wikipedia.org/zh-cn/普遍管辖权</p>
 </table>
 </p>
 
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回目錄</a></h4>
 <a name=4>
 <img src="img/2019-04-05_213248-1.jpg">
 </p>
@@ -362,7 +362,7 @@ https://zh.wikipedia.org/zh-cn/普遍管辖权</p>
 </table>
 </p>
 
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回目錄</a></h4>
 <table>
 <tr>
 <td width=900>
@@ -401,7 +401,7 @@ https://zh.wikipedia.org/zh-cn/普遍管辖权</p>
 </table>
 </p>
 
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回目錄</a></h4>
 
 <a name=6>
 <img src="img/2019-04-04_232746.jpg"></a>
@@ -564,7 +564,7 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 </table>
 </p>
 
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回目錄</a></h4>
 <a name=7>
 <img src="img/2019-04-06_144631.jpg"></a></p>
 
@@ -788,7 +788,7 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 </table>
 </p>
 
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回目錄</a></h4>
 <a name=8>
 <img src="img/2019-04-05_191510.jpg"></a></p>
 
@@ -933,7 +933,7 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 </table>
 </p>
 
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回目錄</a></h4>
 <a name=9>
 <img src="img/2019-04-05_204451-3.jpg"></a></p>
 
@@ -979,7 +979,7 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 </table>
 </p>
 
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回目錄</a></h4>
 <a name=10>
 <img src="img/2019-04-05_22200-1.jpg"></a></p>
 
@@ -1017,7 +1017,7 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 </table>
 </p>
 
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回目錄</a></h4>
 <a name=11>
 <img src="img/2019-04-03_21565-1.jpg"></a></p>
 
@@ -1063,7 +1063,7 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 <img src="img/2019-04-03_161806.jpg">
 </p>
 
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回目錄</a></h4>
 <a name=12>
 <img src="img/2019-04-04_16555-2.jpg"></a></p>
 
@@ -1109,7 +1109,7 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
 </table>
 </p>
 
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回目錄</a></h4>
 <a name=13>
 <img src="img/2019-04-05_231818-1.jpg"></a>
 </p>
