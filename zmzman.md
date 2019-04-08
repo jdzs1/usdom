@@ -1438,7 +1438,7 @@ Fritz Bauer于一九六三年主持了法兰克福审判，审判对像同样是
  </tr>
 </table>
 </p>
-<a href=#list><h4 align="right">回目錄</h4></a>
+<a href=#list><h4 align="right">回目錄</a></h4>
 <img src="img/18-0403-4.jpg">
 </p>
 
