@@ -77,6 +77,8 @@
 </table>
 </p>
 
+<img src="img/b_ornament_30_0M.png"></p>
+
 <a name=1>
 <img src="img/2019-04-04_215215-3.jpg"></a>
 </p>
