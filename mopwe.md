@@ -4,7 +4,7 @@
 <img src="img/2019-03-08_214952.jpg">
 </p>
 
-  <h3 align=center><a href="http://111.240.72.115">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://111.240.72.115 </a></h3>
+  <h3 align=center><a href="http://114.37.24.246">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://114.37.24.246 </a></h3>
 
 <div align=center>
 <img src="img/b_ornament_23_0M.png" width=880></div>
