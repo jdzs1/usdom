@@ -1,6 +1,11 @@
 
 <a name=list><b>目录</b>
 <table>
+ 
+<tr>
+<td width=900>
+<a href="#0">➤ 纽约学员中领馆前纪念四·二五</a></td></tr> 
+ 
 <tr>
 <td width=900>
 <a href="#1">➤ 纽约盛大游行纪念四·二五 民众感佩</a></td></tr>
@@ -67,6 +72,21 @@
 </p>
 
 <div align="center">
+<img src="img/bb003.jpg"></div></p>
+<a href=#list><h4 align="right">回目錄</a></h4>
+
+
+<a name=0><h2 align="center">纽约学员中领馆前纪念四·二五</a></h2>
+
+
+
+
+
+
+
+
+<a href=#list><h4 align="right">回目錄</a></h4>
+   <div align="center">
 <img src="img/bb003.jpg"></div></p>
 
 <a name=1><h2 align="center">纽约盛大游行纪念四·二五 民众感佩</a></h2>
