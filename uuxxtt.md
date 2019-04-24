@@ -572,15 +572,15 @@
  <div align="center">
 <img src="img/2019-4-22-britain-london-425_05--ss.jpg"></div></p> 
    
-    <div align="center">
+  <div align="center">
 <img src="img/2019-4-22-britain-london-425_06--ss.jpg"></div></p> 
    
-    <div align="center">
+  <div align="center">
 <img src="img/2019-4-22-britain-london-425_07--ss.jpg"></div>
    <div align="center">图5～7：许多民众驻足了解真相 </div></p> 
    
   <div align="center">
-<img src="img/2019-4-22-britain-london-425_08--ss  .jpg"></div>
+<img src="img/2019-4-22-britain-london-425_08--ss.jpg"></div>
    <div align="center">图8：一群来伦敦旅游的法国年轻人在现场尝试学炼法轮功第二套功法动作。学员问他们第一次尝试炼功的感受时，她们回答：感到“美好”、“平和”、“愉悦”。 </div></p>  
    
 <b>爱沙尼亚中学生：法轮功展示的平和带给我希望</b><br/>
@@ -599,7 +599,7 @@
 
 五十七岁的伦敦女士莎伦（Sharron）在特拉法加广场第一次遇到法轮功，看到“真、善、忍”横幅，径直找法轮功学员要学炼法轮功。她说：“刚才我坐在广场那边觉得自己啥也不是啥也没有，而我一走上台阶看到这个我立刻感觉我有了巨大财富（I feel I am a big bearer）。”  </p>  
    
-    <div align="center">
+   <div align="center">
 <img src="img/2019-4-22-britain-london-425_10--ss.jpg"></div>
    <div align="center">图10：法轮功学员正在给莎伦（Sharron）介绍法轮功。 </div></p>  
    
