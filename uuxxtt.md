@@ -1,4 +1,10 @@
 
+<img src="img/9256279ba80aa31.jpg">
+
+<h2 align="center">每个人都有知道真相的权利  翻墙必看  http://114.37.71.239  </h2>
+
+
+
 <a name=list><b>目录</b>
 <table>
  
