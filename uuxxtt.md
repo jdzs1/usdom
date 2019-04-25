@@ -3,7 +3,7 @@
 
 <h3 align="center"><a href="http://114.37.71.239">每个人都有知道真相的权利  翻墙必看  http://114.37.71.239 </a> </h3>
 
-<h3 align="center"><a href="https://git.io/55">https://git.io/55 “四•二五”上访真相
+<h3 align="center"><a href="https://git.io/55"> “四•二五”上访真相  https://git.io/55</a> </h3>
 
 <a name=list><b>目录</b>
 <table>
