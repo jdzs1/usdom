@@ -28,7 +28,7 @@
 </a></td></tr>
 
 <tr><td width=900>
-➤ 群体灭绝罪、反人类罪、酷刑罪还在中国进行着 https://git.io/ssbbaaa 
+➤ 群体灭绝罪、反人类罪、酷刑罪在中国还在进行的罪行 https://git.io/ssbbaaa 
 </td></tr>
 
 <tr><td width=900>
