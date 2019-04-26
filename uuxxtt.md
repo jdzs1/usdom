@@ -1905,7 +1905,7 @@ Jean说，迫害也让中共面临末日的到来。作为一名法轮功修炼�
 <img src="img/2019-4-25-sydney-425_02--ss.jpg"></div></p> 
   
  <div align="center">
-<img src="img/2019-4-25-sydney-425_03--ss.jpg.png"></div></p>  
+<img src="img/2019-4-25-sydney-425_03--ss.jpg.png"></div> 
     <div align="center">图1～3：为纪念“四·二五”法轮功学员万人和平上访二十周年，悉尼法轮功学员于二零一九年四月二十四日在悉尼市中心海关大楼门前广场集会</div></p>  
   
    <div align="center">
