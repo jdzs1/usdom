@@ -128,6 +128,10 @@
 </a></td></tr>
 
 <tr><td width=900>
+➤ 他们的改变来自法轮大法 https://git.io/dadakk
+</a></td></tr>
+
+<tr><td width=900>
  <a href="#25">➤ 纪念四·二五　多伦多学员中领馆前烛光悼念（图）
 </a></td></tr>
 
