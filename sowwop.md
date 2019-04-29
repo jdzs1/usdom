@@ -94,7 +94,7 @@
  </tr>
  
  <tr>
-    <td width=680><a href=#◆4>◆海风：暴力阻挡不了信仰的光芒</a> </td>
+    <td width=680><a href=#◆5>◆海风：暴力阻挡不了信仰的光芒</a> </td>
     <td width=200 ><a href=#◆5>大纪元</a> </td>
  </tr>
  
