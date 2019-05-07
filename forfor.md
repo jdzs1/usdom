@@ -588,7 +588,7 @@
 
 
 <div align="center">
-<img src="img/2009-10-29-204436-1.jpg"></div>
+<img src="img/2009-10-29-204436-1.jpg"width="300"></div>
 <div align="center">黄立忠</div></p>
 
 <div align="center">
