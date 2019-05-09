@@ -3,7 +3,7 @@
 <img src="img/2019-04-03_215755-4.jpg">
 </p>
 
- <h3 align="center"> 翻牆必看  http://114.37.68.227  </h3></p>
+ <h3 align="center"> 翻牆必看  http://118.161.251.214  </h3></p>
 
 <img src="img/92p58PICwi8--1.jpg">
 </p>
