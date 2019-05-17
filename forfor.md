@@ -1,7 +1,7 @@
 
 <img src="img/2018-02-27_170735-1235.jpg">
 
-<h3 align="center"><a href="http://111.240.73.110">每个人都有知道真相的权利  翻墙必看  http://111.240.73.110 </a> </h3>
+<h3 align="center"><a href="http://114.43.32.137">每个人都有知道真相的权利  翻墙必看  http://114.43.32.137 </a> </h3>
 
 <h3 align="center"><a href="https://git.io/55"> “四•二五”上访真相  https://git.io/55</a> </h3>
 
