@@ -5,7 +5,7 @@
 
 <h3 align="center"><a href="https://git.io/55"> “四•二五”上访真相  https://git.io/55</a> </h3>
 
-<a name=list><b>目录</b>
+<a name=list-1><b>目录</b>
 <table>
  
   <tr>
@@ -18,7 +18,9 @@
 </table>
 </p>
 
- 
+ <div align="center">
+<img src="img/bb003.jpg"></div></p>
+
 <img src="img/2018-02-27_170735-1235.jpg"></p>
 
 <a name=list><b>目录</b>
@@ -111,7 +113,7 @@
 
 <div align="center">
 <img src="img/bb003.jpg"></div></p>
-<a href=#list><h4 align="right">回目錄</a></h4>
+<a href=#list-1><h4 align="right">回目錄</a></h4>
 <a name=a><h2 align="center">【禁闻】收集名单 美将严审侵犯人权者签证</a></h2>
 
 <div align="center">
