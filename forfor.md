@@ -1,5 +1,5 @@
 
-<img src="img/tony-bg-clean22.jpg.jpg"></p>
+<img src="img/tony-bg-clean22.jpg."></p>
 
 <h3 align="center"><a href="http://111.240.64.57">每个人都有知道真相的权利  翻墙必看  http://111.240.64.57 </a> </h3>
 
