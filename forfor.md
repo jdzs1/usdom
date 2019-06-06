@@ -6,7 +6,7 @@
 <h3 align="center"><a href="https://git.io/55"> “四•二五”上访真相  https://git.io/55</a> </h3>
 
 
-<img src="img/98c9fe705864469ebf20d67d4c091e83-600x400.jpg"width=900></p>
+<img src="img/98c9fe705864469ebf20d67d4c091e83-600x400.jpg" width=900></p>
 
 
 <a name=list-1><b>目录</b>
