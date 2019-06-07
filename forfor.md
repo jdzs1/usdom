@@ -14,7 +14,7 @@
 <a name=list-1><b>目录</b>
 <table>
  
-  <tr>
+ <tr>
 <td width=900>
 <a href="#a002">➤  【特稿】欢迎举报江泽民等人权恶棍美国资产 </a></td></tr> 
  
@@ -206,9 +206,6 @@ https://luntan.epochtimes.com/tougao/gb/index.php  </p>
 新唐人电视台<br/>
 大纪元编辑部<br/>
 2019年6月6日#</p>
-
-
-
 
 
 <div align="center">
