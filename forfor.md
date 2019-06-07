@@ -7,8 +7,8 @@
 
 
 <img src="img/98c9fe705864469ebf20d67d4c091e83-600x400.jpg" width=900></p>
-
-<img src="img/c76416b55ce4ce34a568fc135e8eea17.jpg" width=680></p>
+<div align="center">
+<img src="img/c76416b55ce4ce34a568fc135e8eea17.jpg" width=680></div></p>
 
 
 <a name=list-1><b>目录</b>
@@ -168,7 +168,7 @@
 <a name=a002><h2 align="center">【特稿】欢迎举报江泽民等人权恶棍美国资产</a></h2>
 
 <div align="center">
-<img src="img/c76416b55ce4ce34a568fc135e8eea17.jpg"></div>
+<img src="img/c76416b55ce4ce34a568fc135e8eea17.jpg"width=680></div>
 <div align="center">欢迎举报江泽民等人权恶棍。（大纪元制图）</div></p>
 
 大纪元编辑部<br/>
