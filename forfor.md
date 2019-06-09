@@ -4,7 +4,7 @@
 <h3 align="center"><a href="http://111.240.64.57">每个人都有知道真相的权利  翻墙必看  http://111.240.64.57 </a> </h3>
 
 <h3 align="center"><a href="https://git.io/55"> “四•二五”上访真相  https://git.io/55</a> </h3>
-<h3 align="center">➤ 了解更多 https://git.io/01 </h3>
+<h3 align="center">➤ 看更多 https://git.io/01 </h3>
 
 <img src="img/98c9fe705864469ebf20d67d4c091e83-600x400.jpg" width=900></p>
 <div align="center">
