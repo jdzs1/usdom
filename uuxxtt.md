@@ -1,8 +1,8 @@
 
 <img src="img/9256279ba80aa31.jpg">
 
-<h3 align="center"><a href="http://118.161.140.97">每个人都有知道真相的权利  翻墙必看  http://111.240.64.57 </a> </h3>
-
+<h3 align="center"><a href="http://114.37.64.122">每个人都有知道真相的权利  翻墙必看  http://114.37.64.122 </a> </h3>
+<h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1>
 <h3 align="center"><a href="https://git.io/55"> “四•二五”上访真相  https://git.io/55</a> </h3>
 
 <a name=list><b>目录</b>
