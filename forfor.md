@@ -74,6 +74,12 @@
 <td width=900>
 <a href="#a10">➤ 【6.9反送中】自己香港自己救 港人上街怒吼反恶法</a></td></tr>
 
+<tr>
+<td width=900>
+<a href="#a11">➤ 组图3：空拍香港6‧16反送中 声势浩大</a></td></tr>
+
+
+
 </table>
 </p>
 
@@ -168,6 +174,88 @@
  
 </table>
 </p>
+
+<div align="center">
+<img src="img/bb003.jpg"></div></p>
+<a href=#list-1><h4 align="right">回目錄</a></h4>
+<a name=a11><h2 align="center">组图3：空拍香港6‧16反送中 声势浩大</a></h2>
+
+<div align="center">
+<img src="img/1906160415291366-600x400.jpg"width=680></div>
+<div align="center">2019年6月16日，香港，由高空所见反送中的游行队伍，铜锣湾一带挤满游行人潮。（李逸／大纪元）
+</div></p>
+
+【大纪元2019年06月16日讯】（大纪元记者卓惠如综合报导）香港特首林郑月娥在百万人上街反对和国际压力下，6月15日宣布暂缓推动《逃犯条例》修订（又称送中条例、引渡恶法），但香港民间表明不接受暂缓，并坚决追究港府6‧12开枪暴力镇压市民的暴行。民间人权阵线今日（6月16日）再发起第四次反恶法大游行。有媒体人以大数据分析，预估这次游行可达到破纪录的144万人。</p>
+
+香港传媒人士李鸿彦在《立场新闻》刊出的专栏文章指出，他与团队针对“民阵（民间人权阵线）”、“6‧16游行”、“游行”、“维园”等示威关键词汇的搜寻量进行分析，并和过去6年的资料相互比对，在大数据系统中得出一套数据。
+
+李鸿彦说，这次6‧16大游行人数显然会比6月9日的75.5万人（民阵计算103万人）还多，因为大数据系统显示今天有85%的机会破89.2万人，72%的概率达到144万人。
+
+以下是这次从空中俯瞰6‧16香港大游行队伍的画面。#</p>
+
+<div align="center">
+<img src="img/1906160350501366-600x312.jpg"width=680></div>
+<div align="center">2019年6月16日，香港反送中大游行，由高空所见，铜锣湾一带挤满游行人潮。（李逸／大纪元）
+</div></p>
+
+<div align="center">
+<img src="img/1906160630521528.jpg"width=680></div>
+<div align="center">2019年6月16日，香港反送中大游行，由高空所见，参加的民众密密麻麻。(Anthony Kwan/Getty Images)
+</div></p>
+
+<div align="center">
+<img src="img/1906160630571528.jpg"width=680></div>
+<div align="center">2019年6月16日，香港反送中大游行，由高空所见，参加的民众密密麻麻。(DALE DE LA REY/AFP/Getty Images)
+</div></p>
+
+<div align="center">
+<img src="img/1906160630121528.jpg"width=680></div>
+<div align="center">2019年6月16日，香港反送中大游行，由高空所见，参加的民众密密麻麻。(DALE DE LA REY/AFP/Getty Images)
+</div></p>
+
+<div align="center">
+<img src="img/1906160631311528.jpg"width=680></div>
+<div align="center">2019年6月16日，香港反送中大游行，由高空所见，参加的民众密密麻麻。(DALE DE LA REY/AFP/Getty Images)
+</div></p>
+
+<div align="center">
+<img src="img/1906160632351528.jpg"width=680></div>
+<div align="center">2019年6月16日，香港反送中大游行，由高空所见，参加的民众密密麻麻。(DALE DE LA REY/AFP/Getty Images)
+</div></p>
+
+<div align="center">
+<img src="img/1906160630071528-600x400.jpg"width=680></div>
+<div align="center">2019年6月16日，香港反送中大游行，由高空所见，参加的民众密密麻麻。(Anthony Kwan/Getty Images)
+</div></p>
+
+<div align="center">
+<img src="img/1906160630011528-600x400.jpg"width=680></div>
+<div align="center">2019年6月16日，香港反送中大游行，由高空所见，参加的民众密密麻麻。(Anthony Kwan/Getty Images)
+</div></p>
+
+<div align="center">
+<img src="img/1906160630241528-600x400.jpg"width=680></div>
+<div align="center">2019年6月16日，香港反送中大游行，由高空所见，参加的民众密密麻麻。(DALE DE LA REY/AFP/Getty Images)
+</div></p>
+
+<div align="center">
+<img src="img/1906160630181528-600x400.jpg"width=680></div>
+<div align="center">2019年6月16日，香港反送中大游行，由高空所见，参加的民众密密麻麻。(DALE DE LA REY/AFP/Getty Images)
+</div></p>
+
+<div align="center">
+<img src="img/1906160632411528-600x400.jpg"width=680></div>
+<div align="center">2019年6月16日，香港反送中大游行，由高空所见，参加的民众密密麻麻。(DALE DE LA REY/AFP/Getty Images)
+</div></p>
+
+<div align="center">
+<img src="img/1906160632521528-600x400.jpg"width=680></div>
+<div align="center">2019年6月16日，香港反送中大游行，由高空所见，参加的民众密密麻麻。(DALE DE LA REY/AFP/Getty Images)
+</div></p>
+
+责任编辑：苏漾</p>
+
+
 
 <div align="center">
 <img src="img/bb003.jpg"></div></p>
