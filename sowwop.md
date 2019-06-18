@@ -3,7 +3,7 @@
 
 <div align=center>
 <img src="img/1023-11.jpg" width=880>
-  <h3 align=center>翻墙必看 视频 http://118.161.138.80 </h3>
+  <h3 align=center>翻墙必看 视频 http://114.43.35.116 </h3>
  <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1> 
 </div>
 
