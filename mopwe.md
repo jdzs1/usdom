@@ -4,7 +4,7 @@
 <img src="img/2019-03-08_214952.jpg">
 </p>
 
-  <h3 align=center><a href="http://118.161.140.196">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://118.161.140.196 </a></h3>
+  <h3 align=center><a href="http://114.37.31.230">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://114.37.31.230 </a></h3>
 <div align=center><h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1></div>
 </p>
 
