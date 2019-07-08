@@ -1,7 +1,7 @@
 
 <img src="img/yuuii.jpg"></p>
 
-<h3 align="center"><a href="http://220.141.128.139">每个人都有知道真相的权利  翻墙必看  http://220.141.128.139 </a> </h3>
+<h3 align="center"><a href="http://61.228.117.224">每个人都有知道真相的权利  翻墙必看  http://61.228.117.224 </a> </h3>
 
 <h3 align="center"><a href="https://git.io/55"> “四•二五”上访真相  https://git.io/55</a> </h3>
 <h3 align="center">➤ 看更多 https://git.io/01 </h3>
