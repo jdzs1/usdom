@@ -406,7 +406,7 @@
 希望大陆所有相关人员引以为戒，对迫害政策不予配合、执行，不要堵死自己和家人前往美国及其它西方国家定居、学习、旅游、经商之路。
 
 关于美国有关禁止入境的主要法律及总统公告，请见：
-<a href="http://www.minghui.org/mh/articles/2019/5/30/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%B0%86%E5%AF%B9%E8%BF%AB%E5%AE%B3%E6%B3%95%E8%BD%AE%E5%8A%9F%E8%80%85%E4%B8%A5%E6%A0%BC%E5%AE%A1%E6%A0%B8%E7%AD%BE%E8%AF%81-388036.html美国国务院将对迫害法轮功者严格审核签证">● 红潮即将倾覆  天之将明 ● </a></b>
+<a href="http://www.minghui.org/mh/articles/2019/5/30/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%B0%86%E5%AF%B9%E8%BF%AB%E5%AE%B3%E6%B3%95%E8%BD%AE%E5%8A%9F%E8%80%85%E4%B8%A5%E6%A0%BC%E5%AE%A1%E6%A0%B8%E7%AD%BE%E8%AF%81-388036.html">美国国务院将对迫害法轮功者严格审核签证</a></b>
 
 
 
