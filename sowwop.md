@@ -48,12 +48,12 @@
 <table>
   
  <tr>
-    <td width=680><a href=#◆◆◆a>◆ 一文看懂 香港反送中条例的来龙去脉  </a> </td>
+    <td width=680><a href=#◆◆◆a>➤ 一文看懂 香港反送中条例的来龙去脉  </a> </td>
     <td width=200 ><a href=#◆◆◆a>大纪元</a> </td>
  </tr>  
   
  <tr>
-    <td width=680><a href=#◆◆◆a1>◆ 美国会拟通过两党法案 制裁破坏香港自由者  </a> </td>
+    <td width=680><a href=#◆◆◆a1>➤ 美国会拟通过两党法案 制裁破坏香港自由者  </a> </td>
     <td width=200 ><a href=#◆◆◆a1>大纪元</a> </td>
  </tr>   
   
