@@ -40,11 +40,8 @@
 
 
 <div align=center>
-<img src="img/2018-08-08_213400.jpg" width=60></div> 
-<div align=center>
-<img src="img/2018-08-08_213400.jpg" width=60></div>  
-<div align=center>
-<img src="img/2018-08-08_213400.jpg" width=60></div>  
+<img src="img/2019-08-15_114633.jpg" width=200></div> 
+
 
 <h3 align=center> ➤  港人游行反送中 </h3> 
 
@@ -60,7 +57,8 @@
   
   
   
-  
+<div align=center>
+<img src="img/2019-08-15_114633.jpg" width=200></div>   
   
 <table>  
  <tr>
@@ -200,7 +198,11 @@
  </tr>
  
    </table> 
-  
+ 
+ <div align=center>
+<img src="img/2019-08-15_114633.jpg" width=200></div> 
+ 
+ 
    <table> 
   
   <tr>
@@ -376,6 +378,8 @@
  
  </table> 
  
+ <div align=center>
+<img src="img/2019-08-15_114633.jpg" width=200></div> 
  
   <table> 
  <tr>
