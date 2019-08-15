@@ -437,10 +437,10 @@
 当晚11点，香港政府发出新闻稿，宣布《条例草案》将如期12日在立法会恢复二读辩论。其后，有示威者与警方在立法会综合大楼、龙和道、告士打道一带发生冲突。
 </p>
 
-<div align="center"><img src="img/GettyImages-1148671018.jpg"></div></a>
+<div align="center"><img src="img/GettyImages-1148671018.jpg" width=680></div></a>
 <div align="center">6月9日，香港百万人上街大游行“反送中”，即反对港府欲对“引渡条例”立法。(DALE DE LA REY/AFP/Getty Images)</div></p>
 
-<div align="center"><img src="img/GettyImages-1148687460.jpg"></div></a>
+<div align="center"><img src="img/GettyImages-1148687460.jpg" width=680></div></a>
 <div align="center">6月9日，香港百万人上街大游行“反送中”，即反对港府欲对“引渡条例”立法。(Anthony Kwan/Getty Images)</div></p>
 
 6月12日，民阵及民主派发动包围立法会行动。香港民众当日以罢工、罢市及罢课的方式走上街头，聚集在立法会、政府大楼及附近街道抗议。随着万名港人包围立法会大楼，迫使原定举行二读押后。</p>
