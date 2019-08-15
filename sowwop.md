@@ -38,13 +38,25 @@
   </tr> 
 </table>
 
+
+<div align=center>
+<img src="img/2018-08-08_214023.jpg" width=380> ➤  港人游行反送中  <img src="img/2018-08-08_214036.jpg" width=380></div>
+
 <table>
   
  <tr>
-    <td width=680><a href=#◆◆◆13>◆ 一文看懂 香港反送中条例的来龙去脉  </a> </td>
-    <td width=200 ><a href=#◆◆◆13>大纪元</a> </td>
+    <td width=680><a href=#◆◆◆a>◆ 一文看懂 香港反送中条例的来龙去脉  </a> </td>
+    <td width=200 ><a href=#◆◆◆a>大纪元</a> </td>
  </tr>  
   
+</table> 
+ <br/>  
+  
+  
+  
+  
+  
+<table>  
  <tr>
     <td width=680><a href=#◆◆◆12>◆ 法轮功学员将恶人名单递交美国国务院   </a> </td>
     <td width=200 ><a href=#◆◆◆12>明慧网</a> </td>
@@ -391,7 +403,7 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆13><h2>一文看懂 香港反送中条例的来龙去脉</a>  </h2></div> 
+<a name=◆◆◆a><h2>一文看懂 香港反送中条例的来龙去脉</a>  </h2></div> 
 
 <div align="center"><img src="img/fd3c3d5b829cf546519358ef1bb0aaea-600x400.jpg"></div></a>
 <div align="center">香港144万人在16日再度上街游行，要求撤销“送中恶法、咎责警察开枪、林郑下台”。图为主横幅“撤回恶法”经过湾仔轩尼诗道和庄士敦道交界。 (余钢)</div></p>
