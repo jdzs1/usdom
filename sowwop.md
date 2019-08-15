@@ -40,10 +40,7 @@
 
 
 <div align=center>
-<img src="img/2019-08-15_114633.jpg" width=200></div> &nbsp;
-
-
-<h2 align=center> ➤  港人游行反送中 </h2> 
+<img src="img/2019-08-15_114633.jpg" width=200></div> &nbsp;<h2 align=center> ➤  港人游行反送中 </h2> 
 
 <table>
   
