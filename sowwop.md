@@ -40,7 +40,13 @@
 
 
 <div align=center>
-<img src="img/2018-08-08_213400.jpg" width=60></div>  <h3> ➤  港人游行反送中 </h3> 
+<img src="img/2018-08-08_213400.jpg" width=60></div> 
+<div align=center>
+<img src="img/2018-08-08_213400.jpg" width=60></div>  
+<div align=center>
+<img src="img/2018-08-08_213400.jpg" width=60></div>  
+
+<h3 align=center> ➤  港人游行反送中 </h3> 
 
 <table>
   
