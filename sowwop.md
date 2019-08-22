@@ -518,7 +518,7 @@
 
 我认为你们的报导越来越注重真实，真正地报导事件的真相，主流媒体都在追赶你们，我觉得《大纪元》比主流媒体做得好得多。</p>
 
-<div align="center"><img src="img/Short-Ver-FC-Sound-Cut.00_02_46_28.Still002-600x338.jpg"></div></a>
+<div align="center"><img src="img/Short-Ver-FC-Sound-Cut.00_02_46_28.Still002-600x338.png"></div></a>
 <div align="center">新唐人《世事关心》节目记者萧茗采访了白宫前首席战略顾问史蒂夫‧班农先生。（新唐人）</div></p>
 
 <b>杨洁篪奉中共高层指示 为何去纽约</b></p>
