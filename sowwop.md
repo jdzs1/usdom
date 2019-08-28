@@ -123,6 +123,12 @@
 <img src="img/2019-08-15_114633.jpg" width=200></div>   
   
 <table>  
+  
+ <tr>
+    <td width=680><a href=#◆◆◆13>◆ 中共在LinkedIn招间谍 丹麦前外交官揭秘   </a> </td>
+    <td width=200 ><a href=#◆◆◆13>大纪元</a> </td>
+ </tr>    
+ 
  <tr>
     <td width=680><a href=#◆◆◆12>◆ 法轮功学员将恶人名单递交美国国务院   </a> </td>
     <td width=200 ><a href=#◆◆◆12>明慧网</a> </td>
@@ -463,6 +469,25 @@
   <div align=center>
 <img src="img/b_illust_54_0M.png" width=880>
 </div>  
+
+
+
+
+<tr>
+    <td width=680><a href=#◆◆◆13>◆ 中共在LinkedIn招间谍 丹麦前外交官揭秘   </a> </td>
+    <td width=200 ><a href=#◆◆◆13>大纪元</a> </td>
+ </tr>    
+  GettyImages-108456228-600x400
+
+<a href=#list><h6 align="right">回目錄</h6></a>
+ <img src="img/b_ornament_137_0M.png" width=880>
+<div align=center>
+<a name=◆◆◆11><h2>专家：反送中200万港人觉醒 中共恐惧</a>  </h2></div> </p>
+
+<div align="center"><img src="img/190617233359100484-600x400.jpg"></div></a>
+<div align="center">香港民间人权阵线6月16日再次举行反送中大游行，再次刷新纪录，有高达200万人上街，要求撤回修订草案及特首林郑月娥下台。（李逸／大纪元）</div></p>
+
+
 
 
 <a href=#list><h6 align="right">回目錄</h6></a>
