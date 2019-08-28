@@ -475,7 +475,7 @@
 <div align=center> 
 <a name=◆◆◆13><h2>中共在LinkedIn招间谍 丹麦前外交官揭秘   </h2></div> </p>
    
-<div align="center"><img src="img/ GettyImages-108456228-600x400.jpg"></div></a>
+<div align="center"><img src="img/GettyImages-108456228-600x400.jpg"></div></a>
 <div align="center">美国、英国、德国和法国情报机构已对外国代理人在接触LinkedIn上数千用户的情况发出警告，官员们强调，中共间谍在LinkedIn上最活跃。(Justin Sullivan/Getty Images)</div></p>
 
 【大纪元2019年08月28日讯】（大纪元记者苏静好综合报导）西方反情报官员表示，外国特工正在利用社交媒体招募间谍，而LinkedIn则是主要目标。美国、英国、德国和法国情报机构已对外国代理人在接触LinkedIn数千用户的情况发出警告，官员们强调，中共间谍在LinkedIn上最活跃。</p>
