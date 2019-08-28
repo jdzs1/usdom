@@ -20,9 +20,9 @@
 <table>
  
  <tr>
-<td width=700>
+<td width=650>
 <a href="#b1">➤   枉判11法轮功学员 北京法官孙国立遭举报   </a></td>
-<td width=200>  大纪元 2019年08月28日  </td></tr>  
+<td width=250>  大纪元 2019年08月28日  </td></tr>  
 
 
 </table>
