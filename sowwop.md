@@ -105,8 +105,8 @@
   
  
 <tr>
-    <td width=680><a href=#◆◆◆a9>➤ 史无前例两百万人反送中 你需了解五件事  </a> </td>
-    <td width=200 ><a href=#◆◆◆a9>大纪元 2019年06月17日 </a> </td>
+    <td width=680><a href=#◆◆◆a9-1>➤ 史无前例两百万人反送中 你需了解五件事  </a> </td>
+    <td width=200 ><a href=#◆◆◆a9-1>大纪元 2019年06月17日 </a> </td>
  </tr>   
     
   <tr>
@@ -2119,7 +2119,7 @@ English Version: http://en.minghui.org/html/articles/2019/7/23/178555.html</p>
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆9><h2> 史无前例两百万人反送中 你需了解五件事</a>  </h2></div> 
+<a name=◆◆◆a9-1><h2> 史无前例两百万人反送中 你需了解五件事</a>  </h2></div> 
 
 <div align="center">
 <img src="img/11-5-600x400.jpg"width=680></div>
@@ -2522,7 +2522,7 @@ https://www.epochtimes.com/gb/19/6/9/n11310954.htm</p>
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆7><h2> 促撤送中条例 103万港人大游行创历史</a>  </h2></div> 
+<a name=◆◆◆a7><h2> 促撤送中条例 103万港人大游行创历史</a>  </h2></div> 
 <div align="center">中共末日疯狂激起空前民愤 游行人数超03年反23条</div></p>
 
  <div align="center">
