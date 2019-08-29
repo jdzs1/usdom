@@ -16,10 +16,6 @@
 <br/>
 
 
-  <a href="https://git.io/ysys">
-<img src="img/20180606fu-0.png" width=880></a>
-<br/>
-
  <a href="https://git.io/ysys">
 <img src="img/dd55.jpg" width=880></a>
 <br/>
