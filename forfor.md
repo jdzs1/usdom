@@ -14,6 +14,10 @@
 <img src="img/2019-08-28_135433.jpg" width=280></div></p>
 
 <h2 align="center">➤  遭举报迫害法轮功的恶人</h2></p>
+<a href="https://git.io/sos">美正在积极制裁宗教迫害者</a>&nbsp;  
+<a href="https://git.io/8fqfq">对严重侵犯宗教自由者追责</a>&nbsp;   
+<a href="https://git.io/ssbbaaa">迫害人权者应受制裁</a>
+
 
 <a name=list-2><b>目录</b>
 
