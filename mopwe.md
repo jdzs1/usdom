@@ -1,7 +1,7 @@
 <img src="img/9P@1200x1200.jpg">
 </p>
 
-<img src="img/g223.jpg">
+<img src="img/g223.jpg" width="900">
 </p>
 
   <h3 align=center><a href="http://36.228.39.182">朋友,请珍惜这份难能可贵的缘份！翻墙了必看的视频 http://36.228.39.182</a></h3>
