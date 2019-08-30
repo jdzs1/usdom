@@ -7,6 +7,9 @@
 <h3 align="center">➤ 看更多 https://git.io/01 </h3>
 
 <img src="img/ffrd55.jpg" width=900></p>
+
+<h2 align="center">退党、退团、退队（三退）方法 ( 可使用真名、化名、小名退 ) https://git.io/zbaaas </h2></p>
+
 <div align="center">
 <img src="img/c76416b55ce4ce34a568fc135e8eea17.jpg" width=680></div></p>
 
