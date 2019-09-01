@@ -283,7 +283,7 @@
 <div align=center> 
 <a name=a0012><h2>专访班农：美中贸易战 中共谎话连篇（下）  </h2></div> </p>
 
-<div align="center"><img src="img/SteveBannon-Trailer-photo-600x400.png"></div></a>
+<div align="center"><img src="img/SteveBannon-Trailer-photo-600x400.jpg"></div></a>
 <div align="center">班农接受新唐人专访，他表示， 镇压香港将使中共垮台。（新唐人）</div></p>   
 
 【大纪元2019年08月22日讯】在香港的民主运动进行得如火如荼、美中贸易谈判处在十字路口之际，新唐人《世事关心》节目记者萧茗采访了白宫前首席战略顾问史蒂夫· 班农先生。班农谈论了香港的未来，美中贸易战的前景，各有关方面的利益所在，还有首当其冲的这场大冲突的本质，同时还赞扬了《大纪元》的巨大影响力。</p> 
