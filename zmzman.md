@@ -12,7 +12,7 @@
 <img src="img/2016030.jpg">
 </p>
 
-<img src="img/98c9fe705864469ebf20d67d4c091e83-600x400.jpg">
+<img src="img/ppuu78.jpg">
 </p>
 
 <a name=list><b>目录</b>
