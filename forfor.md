@@ -290,8 +290,8 @@
 <div align=center> 
 <a name=a0013><h2>美ICE逮39侵犯人权嫌犯 含4名中共计生官员  </h2></div> </p>
 
-<div align="center"><img src="img/1110272330432404-600x400.jpg"></div>
-<div align="center">图为中共在农村宣传的血腥的计划生育口号。（网路图片） </div></p>
+<div align="center"><img src="img/6777f737fe46fad352c3cfa5c174f355.jpg"></div>
+<div align="center">在一次全国性的搜捕非法移民行动中，美国移民与海关执法局（ICE）逮捕了39名曾经侵犯人权的嫌疑人。 (Getty Images) </div></p>
 
 【大纪元2019年09月06日讯】（大纪元记者高杉编译报导）在一次全国性的搜捕非法移民行动中，美国移民与海关执法局（U.S. Immigration and Customs Enforcement，ICE）逮捕了39名曾经侵犯人权的嫌疑人。</p>
 
