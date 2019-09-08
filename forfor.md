@@ -1,7 +1,7 @@
 
 <img src="img/yuuii.jpg"></p>
 
-<h3 align="center"><a href="http://36.228.37.50">个人都有知道真相的权利  翻墙必看  http://36.228.37.50 </a> </h3>
+<h3 align="center"><a href="http://36.228.37.50">每个人都有知道真相的权利  翻墙必看  http://36.228.37.50 </a> </h3>
 
 <table>
   <tr>
