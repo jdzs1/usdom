@@ -5,16 +5,14 @@
 
 <table>
   <tr>
-<td width=550>
+<td width=880>
 <h3 align="center"><a href="#a0015"><b>➤ 【必看】 神秘录音流出 官员泄露中共陷统治危机</b></h3></td>
-<td width=330>
-<h3 align="center"><a href="https://github.com/awwkk/usdom/blob/master/mp4/bbaaw23s.mp4?raw=true"><b>➤【录音下載.mp4】 </a></b></h3></td>
-  
+
 </tr>
 </table>
 
-<h3 align="center"><a href="https://git.io/55"> “四•二五”上访真相  https://git.io/55</a> </h3>
-<h3 align="center">➤ 看更多 https://git.io/01 </h3>
+<h4 align="center"><a href="https://git.io/55"> “四•二五”上访真相  https://git.io/55</a> </h4>
+<h4 align="center">➤ 看更多 https://git.io/01 </h4>
 
 <img src="img/ffrd55.jpg" width=900></p>
 
@@ -81,11 +79,6 @@
 
 <a name=list-1><b>目录</b>
 <table>
- 
- <tr>
-<td width=650>
-<a href="#a0015">➤ 【必看】 神秘录音流出 官员泄露中共陷统治危机</td>
-</tr>  
  
  <tr>
 <td width=650>
