@@ -45,14 +45,21 @@
 
 
 <div align=center>
-<img src="img/2019-08-15_114633.jpg" width=200></div> 
-<h2 align=center> ➤  港人游行反送中 </h2> 
+<img src="img/2019-08-15_114633.jpg" width=150></div> 
+<h2 align=center> ◆  港人游行反送中 ◆</h2> 
+<h4 align=center>【大纪元讯】香港的街头不再平静，催泪弹的烟雾映照着怒火与血光。“反送中”抗议活动已持续三个月，毫无退潮迹象。争取自由权利的港人与拒绝妥协的北京互不相让，构成“零和博弈”。</h4>
+
+<div align=center>
+<img src="img/2019-08-15_114633.jpg" width=150></div> 
+
+
+
 
 <table>
 
 <tr>
-    <td width=680><a href=#◆◆◆a27>➤ 北京为何注定得不到香港的真实情报    </a> </td>
-    <td width=200 ><a href=#◆◆◆a27>大纪元 2019年09月08日</a> </td>
+    <td width=680><a href=a◆◆◆a27>➤ 北京为何注定得不到香港的真实情报    </a> </td>
+    <td width=200 ><a href=a◆◆◆a27>大纪元 2019年09月08日</a> </td>
  </tr> 
 
 <tr>
