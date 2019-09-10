@@ -45,8 +45,8 @@
 
 
 <div align=center>
-<img src="img/2019-08-15_114633.jpg" width=100>
-<h2 align=center> ◆  港人游行反送中 ◆</h2> 
+<img src="img/2019-08-15_114633.jpg" width=100></div> 
+<div align=center><h2> ◆  港人游行反送中 ◆</h2> 
 <h4>【大纪元讯】香港的街头不再平静，催泪弹的烟雾映照着怒火与血光。“反送中”抗议活动已持续三个月，毫无退潮迹象。争取自由权利的港人与拒绝妥协的北京互不相让，构成“零和博弈”。</h4></div> 
 
 <div align=center>
