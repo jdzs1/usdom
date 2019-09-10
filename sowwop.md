@@ -698,7 +698,7 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=a16><h2>神秘录音流出 官员泄露中共陷统治危机   </h2></div> </p>
+<a name=16><h2>神秘录音流出 官员泄露中共陷统治危机   </h2></div> </p>
 
 <div align="center"><img src="img/GettyImages-1130037907-600x400.jpg"></div>
 <div align="center">图为今年3月12日中共举行全国人大会议第三次全体会议。(Andrea Verdelli/Getty Images）</div></p>
