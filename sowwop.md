@@ -4,11 +4,11 @@
 <div align=center>
 <img src="img/1023-13.jpg" width=880>
   <h3 align=center>翻墙必看 视频 http://36.228.37.50 </h3>
-  
+  #◆◆◆
   <table>
   <tr>
 <td width=580>
-<h3 align="center"><a href="#◆◆◆16"><b>➤ 【必看】 神秘录音流出 官员泄露中共陷统治危机</b></h3></td>
+<h3 align="center"><a href="a16"><b>➤ 【必看】 神秘录音流出 官员泄露中共陷统治危机</b></h3></td>
 <td width=300><h3 align="center"><b><a href="https://github.com/awwkk/usdom/blob/master/vidio/bbaaw23ssa.aac?raw=true"> ➤【录音下载.aac】</a></b></h3></td>
 </tr>
 </table>
@@ -698,7 +698,7 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆16><h2>神秘录音流出 官员泄露中共陷统治危机   </h2></div> </p>
+<a name=a16><h2>神秘录音流出 官员泄露中共陷统治危机   </h2></div> </p>
 
 <div align="center"><img src="img/GettyImages-1130037907-600x400.jpg"></div>
 <div align="center">图为今年3月12日中共举行全国人大会议第三次全体会议。(Andrea Verdelli/Getty Images）</div></p>
