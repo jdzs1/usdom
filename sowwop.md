@@ -603,7 +603,7 @@
 <div align=center> 
 <a name=◆◆◆a25-1><h2>【十字路口】反送中十大史诗片段鼓舞人心(上)     </h2></div> </p>
 
-<div align="center"><img src="img/ttl7dayApAjpg"></div>
+<div align="center"><img src="img/ttl7dayApA.jpg"></div>
 <div align="center">（大纪元）</div></p>  
 
  【大纪元2019年09月06日讯】大家好，我是唐浩，今天都好吗？</p>  
