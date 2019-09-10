@@ -3820,7 +3820,7 @@ Kelly Wong认为香港完全处于中国（中共）的控制之下，她表示�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=1-1><h2> 独家调查：劳教所秘拍视频揭中共奴工黑幕</a>  </h2></div> 
+<a name=1-1><h2> 人权律师揭610操控司法 枉判法轮功学员</a>  </h2></div> 
 
 <div align="center">
 <img src="img/20190420_1420361-600x400.jpg"width=680></div>
