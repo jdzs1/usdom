@@ -607,7 +607,7 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a28><h2>黄之锋访德：香港是抗共桥头堡.新冷战的柏林     </h2></div> </p>
+<a name=a28><h2>黄之锋访德：香港是抗共桥头堡.新冷战的柏林     </h2></div> </p>
 
 <div align="center"><img src="img/2019-09-11_115737.jpg"></div></p>
   
@@ -636,7 +636,7 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a25-2><h2>【十字路口】反送中十大史诗片段鼓舞人心(下)     </h2></div> </p>
+<a name=a25-2><h2>【十字路口】反送中十大史诗片段鼓舞人心(下)     </h2></div> </p>
 
 <div align="center"><img src="img/3_2-600x400.jpg"></div>
 <div align="center">（大纪元合成图）</div></p>  
@@ -744,7 +744,7 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a25-1><h2>【十字路口】反送中十大史诗片段鼓舞人心(上)     </h2></div> </p>
+<a name=a25-1><h2>【十字路口】反送中十大史诗片段鼓舞人心(上)     </h2></div> </p>
 
 <div align="center"><img src="img/ttl7dayApA.jpg"></div>
 <div align="center">（大纪元）</div></p>  
@@ -841,7 +841,7 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆16><h2>神秘录音流出 官员泄露中共陷统治危机   </h2></div> </p>
+<a name=w16><h2>神秘录音流出 官员泄露中共陷统治危机   </h2></div> </p>
 
 <div align="center"><img src="img/GettyImages-1130037907-600x400.jpg"></div>
 <div align="center">图为今年3月12日中共举行全国人大会议第三次全体会议。(Andrea Verdelli/Getty Images）</div></p>
@@ -932,7 +932,7 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆15><h2>王赫：习近平当前面临的四重困境    </h2></div> </p>
+<a name=w15><h2>王赫：习近平当前面临的四重困境    </h2></div> </p>
 
 <div align="center"><img src="img/b07bea748598f8ec77c3b30e3e2dd4a4-600x400.jpg"></div></a>
 <div align="center">中国国家主席习近平。 (Alexey NIKOLSKY/SPUTNIK/AFP)</div></p>    
@@ -1014,7 +1014,7 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a27><h2>北京为何注定得不到香港的真实情报     </h2></div> </p>
+<a name=a27><h2>北京为何注定得不到香港的真实情报     </h2></div> </p>
 
 <div align="center"><img src="img/0d8a61e415a13e8ab7439f7d6d5a8066-600x400.jpg"></div></a>
 <div align="center">中国和香港问题专家分析认为，中共高层在香港问题上没有获得真情报。(Getty Images)</div></p>    
@@ -1056,7 +1056,7 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a26><h2>多国精英联名 吁美速立香港人权法 实施制裁     </h2></div> </p>
+<a name=a26><h2>多国精英联名 吁美速立香港人权法 实施制裁     </h2></div> </p>
 
 <div align="center"><img src="img/1003182344451160-e1466231050699-1.jpg"></div></a>
 <div align="center">图为美国国会大厦。（李莎／大纪元）</div></p>    
@@ -1121,7 +1121,7 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a25><h2>美国会委员会挺港人抗争 支持五大诉求     </h2></div> </p>
+<a name=a25><h2>美国会委员会挺港人抗争 支持五大诉求     </h2></div> </p>
 
 <div align="center"><img src="img/P1020613-600x400.jpg"></div></a>
 <div align="center">9月4日，美国国会下属的美中经济和安全审查委员会（USCC）在参议院就美中关系举行了三个不同主题的听证。图为听证会现场。（李辰／大纪元）</div></p>    
@@ -1206,7 +1206,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a24><h2>林郑公布：正式撤回修例 拒设独立调查     </h2></div> </p>
+<a name=a24><h2>林郑公布：正式撤回修例 拒设独立调查     </h2></div> </p>
 
 <div align="center"><img src="img/WhatsApp_Image_2019-09-04_at_20.57.54-600x400.jpg"></div></a>
 <div align="center">2019年9月4日晚6时，香港特首林郑月娥宣布撤回逃犯条例修订案。（宋碧龙／大纪元）</div></p>  
@@ -1259,7 +1259,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a23><h2>专访萧若元：习最后时刻叫停紧急法   </h2></div> 
+<a name=a23><h2>专访萧若元：习最后时刻叫停紧急法   </h2></div> 
 <div align="center">中共大外宣编故事造假骗习 设陷阱搞乱香港</div></p>  
 
 <div align="center"><img src="img/190903034044100311-600x400.jpg"></div></a>
@@ -1300,7 +1300,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
  <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a22><h2>专访萧若元：林郑录音泄露可能是北京授意      </h2></div> </p>
+<a name=a22><h2>专访萧若元：林郑录音泄露可能是北京授意      </h2></div> </p>
 
 <div align="center"><img src="img/DSC_3582-600x400.jpg"></div></a>
 <div align="center">香港资深时事评论员萧若元认为，录音由习授意林郑月娥放料可能性大。（宋碧龙/大纪元）</div></p>  
@@ -1347,7 +1347,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
  <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a21><h2>美共和党领袖警告中共：香港局势 全球注视      </h2></div> </p>
+<a name=a21><h2>美共和党领袖警告中共：香港局势 全球注视      </h2></div> </p>
 
 <div align="center"><img src="img/GettyImages-577715016-600x400.jpg"></div></a>
 <div align="center">美国会众议院少数党领袖、共和党议员麦卡锡（Kevin McCarthy）9月1日表示，“世界正在密切注视香港局势，中共对此应保持清醒。” (Alex Wong/Getty Images)</div></p>  
@@ -1378,7 +1378,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a20><h2>局势突然剧变 武警部队疑换防时进入香港      </h2></div> </p>
+<a name=a20><h2>局势突然剧变 武警部队疑换防时进入香港      </h2></div> </p>
 
 <div align="center"><img src="img/d4888df7d2ea4e97d9b25865cbb42155.jpg"></div></a>
 <div align="center">在港人反送中的关键时刻，中共军车8月29日凌晨进入香港，引发民众质疑和高度关注。图为8月16日停放在深圳湾体育中心外的中共军车。(Getty Images)</div></p>     
@@ -1447,7 +1447,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a19><h2>吴明德: 《紧急法》惨过《送中条例》十倍   </h2></div> </p>
+<a name=a19><h2>吴明德: 《紧急法》惨过《送中条例》十倍   </h2></div> </p>
 
 <div align="center"><img src="img/190624091238100311@1200x1200-600x400.jpg"></div></a>
 <div align="center">资深银行家吴明德。（宋碧龙／大纪元）</div></p>     
@@ -1495,7 +1495,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a18><h2>专访班农：美中贸易战 中共谎话连篇（下）    </h2></div> </p>
+<a name=a18><h2>专访班农：美中贸易战 中共谎话连篇（下）    </h2></div> </p>
 
 <div align="center"><img src="img/SteveBannon-Trailer-photo-600x400.jpg"></div></a>
 <div align="center">班农接受新唐人专访，他表示， 镇压香港将使中共垮台。（新唐人）</div></p>   
@@ -1724,7 +1724,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a17><h2>抗议者被抓 港人：即使亮出坦克也不退缩    </h2></div> </p>
+<a name=a17><h2>抗议者被抓 港人：即使亮出坦克也不退缩    </h2></div> </p>
 
 <div align="center"><img src="img/GettyImages-1164775153-600x400.jpg"></div></a>
 <div align="center">港警对反送中抗议者的抓捕行动被指在制造白色恐怖。港人表示，不会被吓倒。(Anthony Kwan/Getty Images)</div></p> 
@@ -1779,7 +1779,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
  <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a16><h2>路透：林郑提议撤送中法案 遭中共否决    </h2></div> </p>
+<a name=a16><h2>路透：林郑提议撤送中法案 遭中共否决    </h2></div> </p>
 
 <div align="center"><img src="img/1907210906191528-600x400.jpg"></div></a>
 <div align="center">路透社8月30日引述知情人士披露，林郑月娥曾向北京提议撤回恶法，但遭中共反对。（宋碧龙／大纪元）</div></p>   
@@ -1842,7 +1842,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
    <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a15><h2>港警抓人引发局势升级 欧盟发声力挺抗议者   </h2></div> </p>
+<a name=a15><h2>港警抓人引发局势升级 欧盟发声力挺抗议者   </h2></div> </p>
 
 <div align="center"><img src="img/35065eab88e2141bfe0ddaa241c64e81-600x400.jpg"></div></a>
 <div align="center">香港局势周五随着港警抓人事件而升级。欧盟表示极度担忧，并呼吁港府尊重港人权利。(Euseson/Wikimedia commons)</div></p>   
@@ -1881,7 +1881,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
  <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a14><h2>军队入港 三股力量围绕香港反送中激战    </h2></div> </p>
+<a name=a14><h2>军队入港 三股力量围绕香港反送中激战    </h2></div> </p>
 
 <div align="center"><img src="img/000_1JU3U4-600x400.jpg"></div></a>
 <div align="center">面对中共高层内部的分裂，香港民众会更强大。军队已经进来了，香港面临大决战、更多人会站出来维护香港。图为8月29日凌晨中共军队出没香港街头。(Handout / CCTV / AFP)</div></p>   
@@ -2049,7 +2049,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=◆◆◆a13><h2>张林：香港人为什么坚持抗争？     </h2></div> </p>
+<a name=a13><h2>张林：香港人为什么坚持抗争？     </h2></div> </p>
 
 <div align="center"><img src="img/111-5.jpg"></div></a>
 <div align="center">香港人绝地反击，6月26日晚到中环爱丁堡广场集会，趁G20峰会前夕，藉国际压力再向特区政府施压，要求回应五大诉求。（宋碧龙／大纪元）</div></p>     
@@ -2094,7 +2094,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
 
 <h3 align=center>80多天反送中运动已取得重大成果 </h3></p>
 <div align=center> 
-<a name=◆◆◆a12><h2>七国首脑联合肯定《中英联合声明》    </h2></div> </p>
+<a name=a12><h2>七国首脑联合肯定《中英联合声明》    </h2></div> </p>
 <h3 align=center>香港抗争出路正汇入全球灭共大潮 </h3>  </p>
 <h3 align=center>王友群、晨钟</h3>  </p>
    
@@ -2167,7 +2167,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center> 
-<a name=◆◆◆14><h2>程晓容：中共代理人海外行不义 下场可悲   </h2></div> </p>
+<a name=w14><h2>程晓容：中共代理人海外行不义 下场可悲   </h2></div> </p>
    
 <div align="center"><img src="img/1907260703001538-1-600x400.jpg"></div></a>
 <div align="center">2019年7月26日，香港一批航空界职员在香港机场的接机大厅举行集会抗议。图为抗议人士以“内除傀儡林郑 外拒中共虎狼”、“还我香港”等横幅表达心声。（宋碧龙／大纪元）</div></p>  
@@ -2247,7 +2247,7 @@ USCC委员费德勒（Jeffery Filder）认为，香港民众会继续抗争。</
  <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center> 
-<a name=◆◆◆13><h2>中共在LinkedIn招间谍 丹麦前外交官揭秘   </h2></div> </p>
+<a name=w13><h2>中共在LinkedIn招间谍 丹麦前外交官揭秘   </h2></div> </p>
    
 <div align="center"><img src="img/GettyImages-108456228-600x400.jpg"></div></a>
 <div align="center">美国、英国、德国和法国情报机构已对外国代理人在接触LinkedIn上数千用户的情况发出警告，官员们强调，中共间谍在LinkedIn上最活跃。(Justin Sullivan/Getty Images)</div></p>
@@ -2309,7 +2309,7 @@ LinkedIn发言人尼科尔·莱弗里奇（Nicole Leverich）对《纽时》表�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆a11><h2>专家：反送中200万港人觉醒 中共恐惧</a>  </h2></div> </p>
+<a name=a11><h2>专家：反送中200万港人觉醒 中共恐惧</a>  </h2></div> </p>
 
 <div align="center"><img src="img/190617233359100484-600x400.jpg"></div></a>
 <div align="center">香港民间人权阵线6月16日再次举行反送中大游行，再次刷新纪录，有高达200万人上街，要求撤回修订草案及特首林郑月娥下台。（李逸／大纪元）</div></p>
@@ -2376,7 +2376,7 @@ LinkedIn发言人尼科尔·莱弗里奇（Nicole Leverich）对《纽时》表�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆a10><h2>专访班农：香港若重演六四 中共将灭亡(上)</a>  </h2></div> </p>
+<a name=a10><h2>专访班农：香港若重演六四 中共将灭亡(上)</a>  </h2></div> </p>
 
 <div align="center"><img src="img/Short-Ver-FC-Sound-Cut.00_02_46_27.Still003-600x400.jpg"></div></a>
 <div align="center">新唐人《世事关心》节目记者萧茗采访了白宫前首席战略顾问史蒂夫‧班农先生。（新唐人）</div></p>
@@ -2635,7 +2635,7 @@ LinkedIn发言人尼科尔·莱弗里奇（Nicole Leverich）对《纽时》表�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆a9><h2>中共封锁反送中讯息 专家：恐惧全球反共潮</a>  </h2></div> </p>
+<a name=a9><h2>中共封锁反送中讯息 专家：恐惧全球反共潮</a>  </h2></div> </p>
 
 <div align="center"><img src="img/1908210334192378-600x400.jpg"></div></a>
 <div align="center">香港人权律师桑普。（钟元／大纪元）</div></p>
@@ -2690,7 +2690,7 @@ LinkedIn发言人尼科尔·莱弗里奇（Nicole Leverich）对《纽时》表�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆a8><h2>170万港人和平抗暴 流水式集会再创历史</a>  </h2></div> 
+<a name=a8><h2>170万港人和平抗暴 流水式集会再创历史</a>  </h2></div> 
 <div align="center">谴责官警黑暴乱 坚持五大诉求 全球见证和理非精神 </div></p>
 
 <div align="center"><img src="img/photo_2019-08-18_23-05-42-600x400.jpg"></div></a>
@@ -2830,7 +2830,7 @@ LinkedIn发言人尼科尔·莱弗里奇（Nicole Leverich）对《纽时》表�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆a6><h2>欧盟加拿大联合声明 支持香港自由及自治</a>  </h2></div> 
+<a name=a6><h2>欧盟加拿大联合声明 支持香港自由及自治</a>  </h2></div> 
 
 <div align="center"><img src="img/GettyImages-1058152974-600x400.jpg"></div></a>
 <div align="center">周六（8月17日），欧盟外交和安全政策高级代表费德丽卡•莫盖里尼（左）和加拿大外长方慧兰（右）发表联合声明，支持维护香港的自由和自治。(MARTIN OUELLET-DIOTTE/AFP/Getty Images)</div></p>
@@ -2879,7 +2879,7 @@ LinkedIn发言人尼科尔·莱弗里奇（Nicole Leverich）对《纽时》表�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆a5><h2>美专家：若中共武力干预香港 美应立即制裁</a>  </h2></div> 
+<a name=a5><h2>美专家：若中共武力干预香港 美应立即制裁</a>  </h2></div> 
 
 <div align="center"><img src="img/GettyImages-1161875626-600x400.jpg"></div></a>
 <div align="center">香港反送中抗议者于2019年8月16日在香港遮打大厦花园聚会时举着美国国旗。(LILLIAN SUWANRUMPHA/AFP/Getty Images)</div></p>
@@ -2927,7 +2927,7 @@ LinkedIn发言人尼科尔·莱弗里奇（Nicole Leverich）对《纽时》表�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆a4><h2>王友群：香港反送中必将激励全民反中共</a>  </h2></div> 
+<a name=a4><h2>王友群：香港反送中必将激励全民反中共</a>  </h2></div> 
 
 <div align="center"><img src="img/fe241b93-50c5-49da-bd5e-f6bab4d5c924-600x400.jpg"></div></a>
 <div align="center">2019年7月1日，香港七一大游行，民众打开手机灯光鼓舞士气。（宋碧龙／大纪元）</div></p>
@@ -3032,7 +3032,7 @@ LinkedIn发言人尼科尔·莱弗里奇（Nicole Leverich）对《纽时》表�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆a3><h2>不理解反送中？大陆青年：因他们不懂共产党</a>  </h2></div> 
+<a name=a3><h2>不理解反送中？大陆青年：因他们不懂共产党</a>  </h2></div> 
 
 <div align="center"><img src="img/1907220429411528-600x400.jpg"></div></a>
 <div align="center">香港反送中运动中，出现许多民众表达心声的连侬墙。（宋碧龙／大纪元）</div></p>
@@ -3094,7 +3094,7 @@ BBC中文网报导，港台一些老人亲中，与年轻一辈代沟深化。�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆a2><h2>英政治家：西方要挺香港 决定如何对付中共</a>  </h2></div> 
+<a name=a2><h2>英政治家：西方要挺香港 决定如何对付中共</a>  </h2></div> 
 
 <div align="center"><img src="img/GettyImages-1159240075-600x400.jpg"></div></a>
 <div align="center">英国脱欧党领袖奈杰尔·法拉奇（Nigel Farage）表示，北京对香港和平抗议活动的镇压，使得西方社会必须决定要如何对付中共政权，这已经成为一个“非常现实的问题”。 (Christopher Furlong/Getty Images)</div></p>
@@ -3128,7 +3128,7 @@ BBC中文网报导，港台一些老人亲中，与年轻一辈代沟深化。�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆a1><h2>美国会拟通过两党法案 制裁破坏香港自由者</a>  </h2></div> 
+<a name=a1><h2>美国会拟通过两党法案 制裁破坏香港自由者</a>  </h2></div> 
 
 <div align="center"><img src="img/Capitol_Building-2-600x400.jpg"></div></a>
 <div align="center">佩洛西在声明中说，在美国国会，民主党和共和党继续跟香港人民团结一致，要求香港有充满希望的、自由和民主的未来，而这也是香港人民的权利。(Samira Bouaou/The Epoch Times)</div></p>
@@ -3179,7 +3179,7 @@ BBC中文网报导，港台一些老人亲中，与年轻一辈代沟深化。�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆a><h2>一文看懂 香港反送中条例的来龙去脉</a>  </h2></div> 
+<a name=a><h2>一文看懂 香港反送中条例的来龙去脉</a>  </h2></div> 
 
 <div align="center"><img src="img/fd3c3d5b829cf546519358ef1bb0aaea-600x400.jpg"></div></a>
 <div align="center">香港144万人在16日再度上街游行，要求撤销“送中恶法、咎责警察开枪、林郑下台”。图为主横幅“撤回恶法”经过湾仔轩尼诗道和庄士敦道交界。 (余钢)</div></p>
@@ -3326,7 +3326,7 @@ BBC中文网报导，港台一些老人亲中，与年轻一辈代沟深化。�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆12><h2>法轮功学员将恶人名单递交美国国务院</a>  </h2></div> 
+<a name=w12><h2>法轮功学员将恶人名单递交美国国务院</a>  </h2></div> 
 <div align=center>要求对其拒发签证</div> </p>
 
 【明慧网二零一九年七月二十一日】在反迫害二十周年之际，法轮功学员近日将一批恶人名单递交美国国务院，要求根据相关法律将其列入特殊名单，对其拒发美国签证、禁止其入境。</p>
@@ -3766,7 +3766,7 @@ English Version: http://en.minghui.org/html/articles/2019/7/23/178555.html</p>
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆11><h2>迫害法轮功者 美拒发签证 新制裁震慑中共</a>  </h2></div> 
+<a name=w11><h2>迫害法轮功者 美拒发签证 新制裁震慑中共</a>  </h2></div> 
 <div align="center"><img src="img/GettyImages-1157263207-600x400.jpg"></div></a>
 <div align="center">法轮功学员将迫害者名单递交美国务院，国务院官员透露，已有多人因迫害法轮功被拒发签证。 (ALASTAIR PIKE/AFP/Getty Images)</div></p>
 
@@ -3821,7 +3821,7 @@ English Version: http://en.minghui.org/html/articles/2019/7/23/178555.html</p>
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆10><h2> 接见宗教受迫害者 川普询问法轮功学员情况</a>  </h2></div> 
+<a name=w10><h2> 接见宗教受迫害者 川普询问法轮功学员情况</a>  </h2></div> 
 
 <div align="center">
 <img src="img/15b25e89b.jpg"width=680></div>
@@ -3893,7 +3893,7 @@ English Version: http://en.minghui.org/html/articles/2019/7/23/178555.html</p>
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆a9-1><h2> 史无前例两百万人反送中 你需了解五件事</a>  </h2></div> 
+<a name=a9-1><h2> 史无前例两百万人反送中 你需了解五件事</a>  </h2></div> 
 
 <div align="center">
 <img src="img/11-5-600x400.jpg"width=680></div>
@@ -4015,7 +4015,7 @@ Kelly Wong认为香港完全处于中国（中共）的控制之下，她表示�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆8><h2> 大陆汽车经销巨头“庞大集团”宣布破产</a>  </h2></div> 
+<a name=w8><h2> 大陆汽车经销巨头“庞大集团”宣布破产</a>  </h2></div> 
 
 <div align="center">
 <img src="img/VCG111123780335-600x400.jpg"width=680></div>
@@ -4075,7 +4075,7 @@ Kelly Wong认为香港完全处于中国（中共）的控制之下，她表示�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=1-1><h2> 人权律师揭610操控司法 枉判法轮功学员</a>  </h2></div> 
+<a name=w1-1><h2> 人权律师揭610操控司法 枉判法轮功学员</a>  </h2></div> 
 
 <div align="center">
 <img src="img/20190420_1420361-600x400.jpg"width=680></div>
@@ -4167,7 +4167,7 @@ Kelly Wong认为香港完全处于中国（中共）的控制之下，她表示�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆5-1><h2> 独家调查：劳教所秘拍视频揭中共奴工黑幕</a>  </h2></div> 
+<a name=w5-1><h2> 独家调查：劳教所秘拍视频揭中共奴工黑幕</a>  </h2></div> 
 
 
  <div align="center">
@@ -4268,7 +4268,7 @@ https://www.epochtimes.com/gb/19/6/9/n11310954.htm</p>
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆5-2><h2> 冒死拍摄中共迫害罪行 于溟：挽救更多生命</a>  </h2></div> 
+<a name=w5-2><h2> 冒死拍摄中共迫害罪行 于溟：挽救更多生命</a>  </h2></div> 
 
 <div align="center">
 <img src="img/1-40-600x400.jpg"width=680></div>
@@ -4296,7 +4296,7 @@ https://www.epochtimes.com/gb/19/6/9/n11310954.htm</p>
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆a7><h2> 促撤送中条例 103万港人大游行创历史</a>  </h2></div> 
+<a name=a7><h2> 促撤送中条例 103万港人大游行创历史</a>  </h2></div> 
 <div align="center">中共末日疯狂激起空前民愤 游行人数超03年反23条</div></p>
 
  <div align="center">
@@ -4399,7 +4399,7 @@ https://www.epochtimes.com/gb/19/6/9/n11310954.htm</p>
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆6><h2> 美中谈判纳入人权议题 江家资产面临清算</a>  </h2></div> 
+<a name=w6><h2> 美中谈判纳入人权议题 江家资产面临清算</a>  </h2></div> 
  <div align="center">
 <img src="img/2019-06-09_185804.jpg"width=680></div></p>
 
@@ -4449,7 +4449,7 @@ https://www.epochtimes.com/gb/19/6/9/n11310954.htm</p>
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆5><h2> 美国严审签证 魏京生：亲共者需要考虑了</a>  </h2></div> 
+<a name=w5><h2> 美国严审签证 魏京生：亲共者需要考虑了</a>  </h2></div> 
  
  <div align=center>
 <img src="img/GettyImages-143649596-600x400.jpg" width=480></div>
@@ -4484,7 +4484,7 @@ https://www.epochtimes.com/gb/19/6/9/n11310954.htm</p>
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆8><h2> 警察及社区人员　你违法了</a>  </h2></div> 
+<a name=w8><h2> 警察及社区人员　你违法了</a>  </h2></div> 
 
 【明慧网二零一九年五月三日】二零一七年年初到中共“十九大”召开前后，全国各地出现的大面积的针对法轮功学员的所谓“敲门行动”是违宪违法的。所有参与的警察及社区人员不仅严重侵犯了公民的众多权利，而且在程序上也存在众多的违法之处，对此我们也都一一作了阐述。
 
@@ -4548,7 +4548,7 @@ https://www.epochtimes.com/gb/19/6/9/n11310954.htm</p>
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆7><h2> 加拿大国会全体通过制止强摘器官法案（图）</a>  </h2></div> 
+<a name=w7><h2> 加拿大国会全体通过制止强摘器官法案（图）</a>  </h2></div> 
 
 【明慧网二零一九年五月二日】（明慧记者英梓渥太华报道）二零一九年四月三十日晚，旨在打击强制摘取、非法贩运人体器官的《S-240法案》获得加拿大国会所有党派的支持。经过第三次审阅，国会全体通过了该法案。在正式成为法律之前，该法案将被提交到参议院进行最后审阅。</P>
 
@@ -4606,7 +4606,7 @@ Rankin在发言中说：“新民主党全心全意支持《S-240法案》。“
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆6><h2> 美国际宗教自由委员会年度报告：中共仍在大规模强摘器官（图）</a>  </h2></div> 
+<a name=w6><h2> 美国际宗教自由委员会年度报告：中共仍在大规模强摘器官（图）</a>  </h2></div> 
 
 <div align=center>
 <img src="img/2019-4-29-gary-bauerr--ss.jpg" width=480></div>
@@ -4636,7 +4636,7 @@ Rankin在发言中说：“新民主党全心全意支持《S-240法案》。“
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆5><h2> 海风：暴力阻挡不了信仰的光芒</a>  </h2></div> 
+<a name=w5><h2> 海风：暴力阻挡不了信仰的光芒</a>  </h2></div> 
 
 <div align=center>
 <img src="img/1806201637511160-600x400-2-1-600x400.jpg" width=580></div>
@@ -4667,7 +4667,7 @@ Rankin在发言中说：“新民主党全心全意支持《S-240法案》。“
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆4><h2> 港府无理遣返法轮功学员　“一国两制”名存实亡</a>  </h2></div> 
+<a name=w4><h2> 港府无理遣返法轮功学员　“一国两制”名存实亡</a>  </h2></div> 
 
 【明慧网二零一九年四月二十九日】二零一九年四月二十六、二十七日，台湾法轮功学员搭机前往香港参加“四二五和平上访二十周年纪念游行”活动，遭港府无理由拒绝入境，近七十名持合法证件的学员遭遣返。</p>
 类此“黑名单”事件，再次证明“香港一国两制”名存实亡。四月中旬，无国界记者组织发布《二零一九新闻自由指数》，香港受中共干预，新闻自由持续倒退，在180个国家中排73名，香港逐渐沦为自由受限地区，于今又添一证。</p>
@@ -4687,7 +4687,7 @@ Rankin在发言中说：“新民主党全心全意支持《S-240法案》。“
  <img src="img/b_ornament_137_0M.png" width=880>
 
 <div align=center>
-<a name=◆3><h2> 委内瑞拉危机 中共数百亿债务或打水漂</a>  </h2></div> 
+<a name=w3><h2> 委内瑞拉危机 中共数百亿债务或打水漂</a>  </h2></div> 
  <div align=center>
 <img src="img/2e37b0dbb.jpg" width=480></div>
  <div align=center>委内瑞拉的政治危机不仅牵动中共的神经，也引发中国民众的极大关注。老百姓担心的是，中共借给委国的数百亿美元的贷款是否会最终随着马杜罗的下台而大缩水或打水漂。（大纪元合成图） </div>  <br/>
@@ -4734,7 +4734,7 @@ Rankin在发言中说：“新民主党全心全意支持《S-240法案》。“
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆2><h2> 【新闻看点】委内瑞拉为何几年就从富到穷？</a>  </h2></div> 
+<a name=w2><h2> 【新闻看点】委内瑞拉为何几年就从富到穷？</a>  </h2></div> 
  <div align=center>
 <img src="img/Ge123.jpg" width=480></div>
  <div align=center>图为委内瑞拉民众上街，举手反对马杜罗。(FEDERICO PARRA/AFP/Getty Images) </div>  <br/>
@@ -4803,7 +4803,7 @@ Rankin在发言中说：“新民主党全心全意支持《S-240法案》。“
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆4><h2> 【九评13周年】中共给中国带来了什么 </a>  </h2></div> 
+<a name=w4><h2> 【九评13周年】中共给中国带来了什么 </a>  </h2></div> 
 <div align=center>《九评》十三周年 反思共产主义灾难（三）</div>
 <div align=center>作者：程晓容</div></p>
  <div align=center>
@@ -5062,7 +5062,7 @@ Rankin在发言中说：“新民主党全心全意支持《S-240法案》。“
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆3><h2> 陆媒罕见大尺度刊文：一场重大变革正席卷中国 </a>  </h2></div> 
+<a name=w3-2><h2> 陆媒罕见大尺度刊文：一场重大变革正席卷中国 </a>  </h2></div> 
  <div align=center>
 <img src="img/a7 (1).jpg" width=480>
 </div>  
@@ -5122,7 +5122,7 @@ Rankin在发言中说：“新民主党全心全意支持《S-240法案》。“
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆1><h2> 【特稿】感恩——亿万法轮功学员的心声 </a>  </h2></div> 
+<a name=w1-1><h2> 【特稿】感恩——亿万法轮功学员的心声 </a>  </h2></div> 
  <div align=center>
 <img src="img/a95.jpg" width=480>
 </div>  
@@ -5409,7 +5409,7 @@ http://cn.epochtimes.com/gb/18/8/30/n10679097.htm
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆1><h2> 1949年后中国丢失多少国土？真实数据超想像 </a>  </h2></div> 
+<a name=w1><h2> 1949年后中国丢失多少国土？真实数据超想像 </a>  </h2></div> 
  <div align=center>
 <img src="img/a8-1.jpg" width=580>
 </div>  
@@ -5487,7 +5487,7 @@ http://cn.epochtimes.com/gb/18/8/30/n10679097.htm
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=◆◆◆><h2> 中共悄悄送给越南的岛 比钓鱼岛还大！ </a>  </h2></div> 
+<a name=w0><h2> 中共悄悄送给越南的岛 比钓鱼岛还大！ </a>  </h2></div> 
  <div align=center>
 <img src="img/a7-1.jpg" width=580>
 </div>  
@@ -5607,7 +5607,7 @@ http://cn.ntdtv.com/xtr/b5/2018/09/06/a1390424_p.html
  <img src="img/b_ornament_137_0M.png" width=880>
 
 <div align=center>
-<a name=◆◆3><h2>中共严密封锁的信息：死亡职位（下） </a>  </h2></div> 
+<a name=w3-1><h2>中共严密封锁的信息：死亡职位（下） </a>  </h2></div> 
  <div align=center>
 <img src="img/1-126.jpg" width=580>
 </div>  
@@ -5699,7 +5699,7 @@ http://cn.ntdtv.com/xtr/b5/2018/09/06/a1390424_p.html
  <img src="img/b_ornament_137_0M.png" width=880>
 
 <div align=center>
-<a name=◆◆2><h2>中共严密封锁的信息：死亡职位（上） </a>  </h2></div> 
+<a name=w2-1><h2>中共严密封锁的信息：死亡职位（上） </a>  </h2></div> 
  <div align=center>
 <img src="img/1-126.jpg" width=580>
 </div>  
@@ -5995,7 +5995,7 @@ http://cn.ntdtv.com/xtr/b5/2018/09/06/a1390424_p.html
  <img src="img/b_ornament_137_0M.png" width=880>
 
 <div align=center>
-<a name=◆><h2>川人：中秋节话感恩，挡不住的良知回归潮 </a>  </h2></div> 
+<a name=0-2><h2>川人：中秋节话感恩，挡不住的良知回归潮 </a>  </h2></div> 
  <div align=center>
 <img src="img/mm0.jpg" width=580>
 </div>  
