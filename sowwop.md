@@ -68,7 +68,7 @@
 
 
 <tr>
-    <td width=680><a href=#a25-2>➤ 【十字路口】反送中十大史诗片段鼓舞人心(下)    </a> </td>
+    <td width=680><a href=#a25-2>➤ 【十字路口】反送中十大史诗片段鼓舞人心(下)<br> https://youtu.be/tHlbdGOXgLM     </a> </td>
     <td width=200 ><a href=#a25-2>大纪元 2019年09月10日</a> </td>
  </tr> 
 
@@ -83,7 +83,7 @@
  </tr> 
 
 <tr>
-    <td width=680><a href=#a25-1>➤ 【十字路口】反送中十大史诗片段鼓舞人心(上)    </a> </td>
+    <td width=680><a href=#a25-1>➤ 【十字路口】反送中十大史诗片段鼓舞人心(上)<br>  https://youtu.be/FtoEwyG9vyQ  </a> </td>
     <td width=200 ><a href=#a25-1>大纪元 2019年09月06日</a> </td>
  </tr> 
 
@@ -637,7 +637,8 @@
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
 <a name=a25-2><h2>【十字路口】反送中十大史诗片段鼓舞人心(下)     </h2></div> </p>
-
+<div align="center">http://36.227.93.70/crossroad/</div></p>
+  
 <div align="center"><img src="img/3_2-600x400.jpg"></div>
 <div align="center">（大纪元合成图）</div></p>  
 
@@ -745,6 +746,7 @@
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
 <a name=a25-1><h2>【十字路口】反送中十大史诗片段鼓舞人心(上)     </h2></div> </p>
+<div align="center">http://36.227.93.70/crossroad/</div></p>
 
 <div align="center"><img src="img/ttl7dayApA.jpg"></div>
 <div align="center">（大纪元）</div></p>  
