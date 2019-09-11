@@ -312,8 +312,8 @@
  </tr>   
   
   <tr>
-    <td width=680><a href=#w4>◆ 【九评13周年】中共给中国带来了什么</a> </td>
-    <td width=200 ><a href=#w4>大纪元</a> </td>
+    <td width=680><a href=#w4-a>◆ 【九评13周年】中共给中国带来了什么</a> </td>
+    <td width=200 ><a href=#w4-a>大纪元</a> </td>
  </tr> 
   
    <tr>
@@ -342,18 +342,18 @@
  </tr> 
  
    <tr>
-    <td width=680><a href=#w0-1>◆ 中共哈尔滨政法委“610”官员厄运缠身 </a> </td>
-    <td width=200 ><a href=#w0-1>大纪元</a> </td>
+    <td width=680><a href=#w0-a>◆ 中共哈尔滨政法委“610”官员厄运缠身 </a> </td>
+    <td width=200 ><a href=#w0-a>大纪元</a> </td>
  </tr> 
   
    <tr>
-    <td width=680><a href=#w0-2>◆ 川人：中秋节话感恩，挡不住的良知回归潮</a> </td>
-    <td width=200 ><a href=#w0-2>大纪元</a> </td>
+    <td width=680><a href=#w0-b>◆ 川人：中秋节话感恩，挡不住的良知回归潮</a> </td>
+    <td width=200 ><a href=#w0-b>大纪元</a> </td>
  </tr>
  
   <tr>
-    <td width=680><a href=#w1-1>◆ 【特稿】感恩——亿万法轮功学员的心声</a> </td>
-    <td width=200 ><a href=#w1-1>大纪元</a> </td>
+    <td width=680><a href=#w1-a>◆ 【特稿】感恩——亿万法轮功学员的心声</a> </td>
+    <td width=200 ><a href=#w1-a>大纪元</a> </td>
  </tr>
  
  <tr>
@@ -372,13 +372,13 @@
  </tr>
  
  <tr>
-    <td width=680><a href=#w5>◆海风：暴力阻挡不了信仰的光芒</a> </td>
-    <td width=200 ><a href=#w5>大纪元</a> </td>
+    <td width=680><a href=#w5-a>◆海风：暴力阻挡不了信仰的光芒</a> </td>
+    <td width=200 ><a href=#w5-a>大纪元</a> </td>
  </tr>
  
  <tr>
-    <td width=680><a href=#w6>◆美国际宗教自由委员会年度报告：中共仍在大规模强摘器官（图）</a> </td>
-    <td width=200 ><a href=#w6>明慧网</a> </td>
+    <td width=680><a href=#w6-a>◆美国际宗教自由委员会年度报告：中共仍在大规模强摘器官（图）</a> </td>
+    <td width=200 ><a href=#w6-a>明慧网</a> </td>
  </tr>
  
   <tr>
@@ -387,8 +387,8 @@
  </tr>
  
   <tr>
-    <td width=680><a href=#w8>◆警察及社区人员　你违法了</a> </td>
-    <td width=200 ><a href=#w8>明慧网</a> </td>
+    <td width=680><a href=#w8-a>◆警察及社区人员　你违法了</a> </td>
+    <td width=200 ><a href=#w8-a>明慧网</a> </td>
  </tr>
  
    </table> 
@@ -577,8 +577,8 @@
  
   <table> 
  <tr>
-    <td width=680><a href=#a>a. 四川医生对天发誓退党 华人出国“三退”热 </a> </td>
-    <td width=200 ><a href=#a>大纪元</a> </td>
+    <td width=680><a href=#aa>a. 四川医生对天发誓退党 华人出国“三退”热 </a> </td>
+    <td width=200 ><a href=#aa>大纪元</a> </td>
  </tr> 
   
   <tr>
@@ -4484,7 +4484,7 @@ https://www.epochtimes.com/gb/19/6/9/n11310954.htm</p>
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=w8><h2> 警察及社区人员　你违法了</a>  </h2></div> 
+<a name=w8-a><h2> 警察及社区人员　你违法了</a>  </h2></div> 
 
 【明慧网二零一九年五月三日】二零一七年年初到中共“十九大”召开前后，全国各地出现的大面积的针对法轮功学员的所谓“敲门行动”是违宪违法的。所有参与的警察及社区人员不仅严重侵犯了公民的众多权利，而且在程序上也存在众多的违法之处，对此我们也都一一作了阐述。
 
@@ -4606,7 +4606,7 @@ Rankin在发言中说：“新民主党全心全意支持《S-240法案》。“
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=w6><h2> 美国际宗教自由委员会年度报告：中共仍在大规模强摘器官（图）</a>  </h2></div> 
+<a name=w6-a><h2> 美国际宗教自由委员会年度报告：中共仍在大规模强摘器官（图）</a>  </h2></div> 
 
 <div align=center>
 <img src="img/2019-4-29-gary-bauerr--ss.jpg" width=480></div>
@@ -4636,7 +4636,7 @@ Rankin在发言中说：“新民主党全心全意支持《S-240法案》。“
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=w5><h2> 海风：暴力阻挡不了信仰的光芒</a>  </h2></div> 
+<a name=w5-a><h2> 海风：暴力阻挡不了信仰的光芒</a>  </h2></div> 
 
 <div align=center>
 <img src="img/1806201637511160-600x400-2-1-600x400.jpg" width=580></div>
@@ -4803,7 +4803,7 @@ Rankin在发言中说：“新民主党全心全意支持《S-240法案》。“
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=w4><h2> 【九评13周年】中共给中国带来了什么 </a>  </h2></div> 
+<a name=w4-a><h2> 【九评13周年】中共给中国带来了什么 </a>  </h2></div> 
 <div align=center>《九评》十三周年 反思共产主义灾难（三）</div>
 <div align=center>作者：程晓容</div></p>
  <div align=center>
@@ -5122,7 +5122,7 @@ Rankin在发言中说：“新民主党全心全意支持《S-240法案》。“
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=w1-1><h2> 【特稿】感恩——亿万法轮功学员的心声 </a>  </h2></div> 
+<a name=w1-a><h2> 【特稿】感恩——亿万法轮功学员的心声 </a>  </h2></div> 
  <div align=center>
 <img src="img/a95.jpg" width=480>
 </div>  
@@ -5278,7 +5278,7 @@ http://cn.epochtimes.com/gb/17/11/22/n9880260.htm
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=a><h2> 四川医生对天发誓退党 华人出国“三退”热 </a>  </h2></div> 
+<a name=aa><h2> 四川医生对天发誓退党 华人出国“三退”热 </a>  </h2></div> 
  <div align=center>
 <img src="img/a1.jpg" width=580>
 </div>  
