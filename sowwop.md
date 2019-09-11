@@ -243,39 +243,39 @@
 <table>  
 
 <tr>
-    <td width=680><a href=#w16> 神秘录音流出 官员泄露中共陷统治危机 <a href="https://github.com/awwkk/usdom/blob/master/vidio/bbaaw23ssa.aac?raw=true"> ➤【录音下载.aac】</a>  </a> </td>
+    <td width=680><a href=#w16>b. 神秘录音流出 官员泄露中共陷统治危机 <a href="https://github.com/awwkk/usdom/blob/master/vidio/bbaaw23ssa.aac?raw=true"> ➤【录音下载.aac】</a>  </a> </td>
     <td width=200 ><a href=#w16>大纪元</a> </td>
  </tr>  
 
 <tr>
-    <td width=680><a href=#w15>◆ 王赫：习近平当前面临的四重困境   </a> </td>
+    <td width=680><a href=#w15>b. 王赫：习近平当前面临的四重困境   </a> </td>
     <td width=200 ><a href=#w15>大纪元</a> </td>
  </tr>  
 
 <tr>
-    <td width=680><a href=#w14>◆ 程晓容：中共代理人海外行不义 下场可悲   </a> </td>
+    <td width=680><a href=#w14>b. 程晓容：中共代理人海外行不义 下场可悲   </a> </td>
     <td width=200 ><a href=#w14>大纪元</a> </td>
  </tr>   
 
  <tr>
-    <td width=680><a href=#w13>◆ 中共在LinkedIn招间谍 丹麦前外交官揭秘   </a> </td>
+    <td width=680><a href=#w13>b. 中共在LinkedIn招间谍 丹麦前外交官揭秘   </a> </td>
     <td width=200 ><a href=#w13>大纪元</a> </td>
  </tr>    
  
  <tr>
-    <td width=680><a href=#w12>◆ 法轮功学员将恶人名单递交美国国务院   </a> </td>
+    <td width=680><a href=#w12>b. 法轮功学员将恶人名单递交美国国务院   </a> </td>
     <td width=200 ><a href=#w12>明慧网</a> </td>
  </tr>  
   
   
 <tr>
-    <td width=680><a href=#w11>◆ 迫害法轮功者 美拒发签证 新制裁震慑中共   </a> </td>
+    <td width=680><a href=#w11>b. 迫害法轮功者 美拒发签证 新制裁震慑中共   </a> </td>
     <td width=200 ><a href=#w11>大纪元</a> </td>
  </tr>     
  
   
  <tr>
-    <td width=680><a href=#w10>◆ 接见宗教受迫害者 川普询问法轮功学员情况  </a> </td>
+    <td width=680><a href=#w10>b. 接见宗教受迫害者 川普询问法轮功学员情况  </a> </td>
     <td width=200 ><a href=#w10>大纪元</a> </td>
  </tr>    
   
@@ -283,7 +283,7 @@
 
   
 <tr>
-    <td width=680><a href=#w8>◆ 大陆汽车经销巨头“庞大集团”宣布破产  </a> </td>
+    <td width=680><a href=#w8>b. 大陆汽车经销巨头“庞大集团”宣布破产  </a> </td>
     <td width=200 ><a href=#w8>大纪元</a> </td>
  </tr>     
   
@@ -291,103 +291,103 @@
 
    
 <tr>
-    <td width=680><a href=#w6>◆ 美中谈判纳入人权议题 江家资产面临清算  </a> </td>
+    <td width=680><a href=#w6>b. 美中谈判纳入人权议题 江家资产面临清算  </a> </td>
     <td width=200 ><a href=#w6>新唐人</a> </td>
  </tr>    
   
  
 <tr>
-    <td width=680><a href=#w5>◆ 美国严审签证 魏京生：亲共者需要考虑了</a> </td>
+    <td width=680><a href=#w5>b. 美国严审签证 魏京生：亲共者需要考虑了</a> </td>
     <td width=200 ><a href=#w5>大纪元</a> </td>
  </tr>   
   
  <tr>
-    <td width=680><a href=#w5-1>◆ 独家调查：劳教所秘拍视频揭中共奴工黑幕</a> </td>
+    <td width=680><a href=#w5-1>b. 独家调查：劳教所秘拍视频揭中共奴工黑幕</a> </td>
     <td width=200 ><a href=#w5-1>大纪元</a> </td>
  </tr>    
   
    <tr>
-    <td width=680><a href=#w5-2>◆ 冒死拍摄中共迫害罪行 于溟：挽救更多生命</a> </td>
+    <td width=680><a href=#w5-2>b. 冒死拍摄中共迫害罪行 于溟：挽救更多生命</a> </td>
     <td width=200 ><a href=#w5-2>大纪元</a> </td>
  </tr>   
   
   <tr>
-    <td width=680><a href=#w4-a>◆ 【九评13周年】中共给中国带来了什么</a> </td>
+    <td width=680><a href=#w4-a>b. 【九评13周年】中共给中国带来了什么</a> </td>
     <td width=200 ><a href=#w4-a>大纪元</a> </td>
  </tr> 
   
    <tr>
-    <td width=680><a href=#w3-2>◆ 陆媒罕见大尺度刊文：一场重大变革正席卷中国 </a> </td>
+    <td width=680><a href=#w3-2>b. 陆媒罕见大尺度刊文：一场重大变革正席卷中国 </a> </td>
     <td width=200 ><a href=#w3-2>新唐人</a> </td>
  </tr> 
   
    <tr>
-    <td width=680><a href=#w0>◆ 中共悄悄送給越南的島 比釣魚島還大！ </a> </td>
+    <td width=680><a href=#w0>b. 中共悄悄送給越南的島 比釣魚島還大！ </a> </td>
     <td width=200 ><a href=#w0>新唐人</a> </td>
  </tr> 
   
    <tr>
-    <td width=680><a href=#w1>◆ 1949年后中国丢失多少国土？真实数据超想像 </a> </td>
+    <td width=680><a href=#w1>b. 1949年后中国丢失多少国土？真实数据超想像 </a> </td>
     <td width=200 ><a href=#w1>新唐人</a> </td>
  </tr> 
   
    <tr>
-    <td width=680><a href=#w2-1>◆ 中共严密封锁的信息：死亡职位（上） </a> </td>
+    <td width=680><a href=#w2-1>b. 中共严密封锁的信息：死亡职位（上） </a> </td>
     <td width=200 ><a href=#w2-1>大纪元</a> </td>
  </tr> 
   
   <tr>
-    <td width=680><a href=#w3-1>◆ 中共严密封锁的信息：死亡职位（下） </a> </td>
+    <td width=680><a href=#w3-1>b. 中共严密封锁的信息：死亡职位（下） </a> </td>
     <td width=200 ><a href=#w3-1>大纪元</a> </td>
  </tr> 
  
    <tr>
-    <td width=680><a href=#w0-a>◆ 中共哈尔滨政法委“610”官员厄运缠身 </a> </td>
+    <td width=680><a href=#w0-a>b. 中共哈尔滨政法委“610”官员厄运缠身 </a> </td>
     <td width=200 ><a href=#w0-a>大纪元</a> </td>
  </tr> 
   
    <tr>
-    <td width=680><a href=#w0-b>◆ 川人：中秋节话感恩，挡不住的良知回归潮</a> </td>
+    <td width=680><a href=#w0-b>b. 川人：中秋节话感恩，挡不住的良知回归潮</a> </td>
     <td width=200 ><a href=#w0-b>大纪元</a> </td>
  </tr>
  
   <tr>
-    <td width=680><a href=#w1-a>◆ 【特稿】感恩——亿万法轮功学员的心声</a> </td>
+    <td width=680><a href=#w1-a>b. 【特稿】感恩——亿万法轮功学员的心声</a> </td>
     <td width=200 ><a href=#w1-a>大纪元</a> </td>
  </tr>
  
  <tr>
-    <td width=680><a href=#w2>◆【新闻看点】委内瑞拉为何几年就从富到穷？</a> </td>
+    <td width=680><a href=#w2>b.【新闻看点】委内瑞拉为何几年就从富到穷？</a> </td>
     <td width=200 ><a href=#w2>大纪元</a> </td>
  </tr>
  
   <tr>
-    <td width=680><a href=#w3>◆委内瑞拉危机 中共数百亿债务或打水漂</a> </td>
+    <td width=680><a href=#w3>b. 委内瑞拉危机 中共数百亿债务或打水漂</a> </td>
     <td width=200 ><a href=#w3>大纪元</a> </td>
  </tr>
  
  <tr>
-    <td width=680><a href=#w4>◆港府无理遣返法轮功学员　“一国两制”名存实亡</a> </td>
+    <td width=680><a href=#w4>b. 港府无理遣返法轮功学员　“一国两制”名存实亡</a> </td>
     <td width=200 ><a href=#w4>明慧网</a> </td>
  </tr>
  
  <tr>
-    <td width=680><a href=#w5-a>◆海风：暴力阻挡不了信仰的光芒</a> </td>
+    <td width=680><a href=#w5-a>b. 海风：暴力阻挡不了信仰的光芒</a> </td>
     <td width=200 ><a href=#w5-a>大纪元</a> </td>
  </tr>
  
  <tr>
-    <td width=680><a href=#w6-a>◆美国际宗教自由委员会年度报告：中共仍在大规模强摘器官（图）</a> </td>
+    <td width=680><a href=#w6-a>b. 美国际宗教自由委员会年度报告：中共仍在大规模强摘器官（图）</a> </td>
     <td width=200 ><a href=#w6-a>明慧网</a> </td>
  </tr>
  
   <tr>
-    <td width=680><a href=#w7>◆加拿大国会全体通过制止强摘器官法案（图）</a> </td>
+    <td width=680><a href=#w7>b. 加拿大国会全体通过制止强摘器官法案（图）</a> </td>
     <td width=200 ><a href=#w7>明慧网</a> </td>
  </tr>
  
   <tr>
-    <td width=680><a href=#w8-a>◆警察及社区人员　你违法了</a> </td>
+    <td width=680><a href=#w8-a>b. 警察及社区人员　你违法了</a> </td>
     <td width=200 ><a href=#w8-a>明慧网</a> </td>
  </tr>
  
@@ -4075,7 +4075,7 @@ Kelly Wong认为香港完全处于中国（中共）的控制之下，她表示�
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
-<a name=w1-1><h2> 人权律师揭610操控司法 枉判法轮功学员</a>  </h2></div> 
+<a name=1-1><h2> 人权律师揭610操控司法 枉判法轮功学员</a>  </h2></div> 
 
 <div align="center">
 <img src="img/20190420_1420361-600x400.jpg"width=680></div>
@@ -5810,7 +5810,7 @@ http://cn.ntdtv.com/xtr/b5/2018/09/06/a1390424_p.html
  <img src="img/b_ornament_137_0M.png" width=880>
 
 <div align=center>
-<a name=◆◆><h2>中共哈尔滨政法委“610”官员厄运缠身 </a>  </h2></div> 
+<a name=w0-a><h2>中共哈尔滨政法委“610”官员厄运缠身 </a>  </h2></div> 
  <div align=center>
 <img src="img/2-172632152.jpg" width=580>
 </div>  
@@ -5995,7 +5995,7 @@ http://cn.ntdtv.com/xtr/b5/2018/09/06/a1390424_p.html
  <img src="img/b_ornament_137_0M.png" width=880>
 
 <div align=center>
-<a name=0-2><h2>川人：中秋节话感恩，挡不住的良知回归潮 </a>  </h2></div> 
+<a name=w0-b><h2>川人：中秋节话感恩，挡不住的良知回归潮 </a>  </h2></div> 
  <div align=center>
 <img src="img/mm0.jpg" width=580>
 </div>  
