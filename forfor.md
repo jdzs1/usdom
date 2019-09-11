@@ -3,13 +3,6 @@
 
 <h3 align="center"><a href="http://36.227.93.70">每个人都有知道真相的权利  翻墙必看  http://36.227.93.70 </a> </h3>
 
-<table>
-  <tr>
-<td width=580>
-<h3 align="center"><a href="#a0015"><b>➤ 【必看】 神秘录音流出 官员泄露中共陷统治危机</b></h3></td>
-<td width=300><h3 align="center"><b><a href="https://github.com/awwkk/usdom/blob/master/vidio/bbaaw23ssa.aac?raw=true"> ➤【录音下载.aac】</a></b></h3></td>
-</tr>
-</table>
 
 <h4 align="center"><a href="https://git.io/55"> “四•二五”上访真相  https://git.io/55</a> </h4>
 <h4 align="center">➤ 看更多 https://git.io/01 </h4>
