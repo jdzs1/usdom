@@ -68,7 +68,7 @@
 
 
 <tr>
-    <td width=680><a href=#a25-2>➤ 【十字路口】反送中十大史诗片段鼓舞人心(下)<br> https://youtu.be/tHlbdGOXgLM     </a> </td>
+    <td width=680><a href=#a25-2>➤ 【十字路口】反送中十大史诗片段鼓舞人心(下) </a> <br> https://youtu.be/tHlbdGOXgLM </td>
     <td width=200 ><a href=#a25-2>大纪元 2019年09月10日</a> </td>
  </tr> 
 
@@ -83,7 +83,7 @@
  </tr> 
 
 <tr>
-    <td width=680><a href=#a25-1>➤ 【十字路口】反送中十大史诗片段鼓舞人心(上)<br>  https://youtu.be/FtoEwyG9vyQ  </a> </td>
+    <td width=680><a href=#a25-1>➤ 【十字路口】反送中十大史诗片段鼓舞人心(上)  </a> <br>  https://youtu.be/FtoEwyG9vyQ</td>
     <td width=200 ><a href=#a25-1>大纪元 2019年09月06日</a> </td>
  </tr> 
 
