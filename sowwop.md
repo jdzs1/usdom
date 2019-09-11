@@ -636,8 +636,8 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=a25-2><h2>【十字路口】反送中十大史诗片段鼓舞人心(下)     </h2></div> </p>
-<div align="center"><h3>http://36.227.93.70/crossroad/</h3></div></p>
+<a name=a25-2><h2>【十字路口】反送中十大史诗片段鼓舞人心(下)     </h2></div> 
+<h3 align="center"><a href="http://36.227.93.70/crossroad/"> http://36.227.93.70/crossroad/ </a></h3></p>
   
 <div align="center"><img src="img/3_2-600x400.jpg"></div>
 <div align="center">（大纪元合成图）</div></p>  
@@ -745,8 +745,8 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=a25-1><h2>【十字路口】反送中十大史诗片段鼓舞人心(上)     </h2></div> </p>
-<div align="center"><h3>http://36.227.93.70/crossroad/</h3></div></p>
+<a name=a25-1><h2>【十字路口】反送中十大史诗片段鼓舞人心(上)     </h2></div> 
+<h3 align="center"><a href="http://36.227.93.70/crossroad/"> http://36.227.93.70/crossroad/ </a></h3></p>
 
 <div align="center"><img src="img/ttl7dayApA.jpg"></div>
 <div align="center">（大纪元）</div></p>  
