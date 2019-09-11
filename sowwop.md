@@ -5,13 +5,7 @@
 <img src="img/1023-13.jpg" width=880>
   <h3 align=center>翻墙必看 视频 http://36.227.93.70 </h3>
   
-  <table>
-  <tr>
-<td width=580>
-<h3 align="center"><a href="#◆◆◆16"><b>➤ 【必看】 神秘录音流出 官员泄露中共陷统治危机</b></h3></td>
-<td width=300><h3 align="center"><b><a href="https://github.com/awwkk/usdom/blob/master/vidio/bbaaw23ssa.aac?raw=true"> ➤【录音下载.aac】</a></b></h3></td>
-</tr>
-</table>
+  
 
  <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h1> 
 </div>
@@ -239,7 +233,10 @@
   
 <table>  
 
-
+<tr>
+    <td width=680><a href=#◆◆◆16> 神秘录音流出 官员泄露中共陷统治危机 <a href="https://github.com/awwkk/usdom/blob/master/vidio/bbaaw23ssa.aac?raw=true"> ➤【录音下载.aac】</a>  </a> </td>
+    <td width=200 ><a href=#◆◆◆16>大纪元</a> </td>
+ </tr>  
 
 <tr>
     <td width=680><a href=#◆◆◆15>◆ 王赫：习近平当前面临的四重困境   </a> </td>
