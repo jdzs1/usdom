@@ -702,7 +702,7 @@
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
 <a name=a25-2><h2>【十字路口】反送中十大史诗片段鼓舞人心(下)     </h2></div> 
-<h3 align="center"><a href="220.141.119.31/crossroad/"> 220.141.119.31/crossroad/ </a></h3></p>
+<h3 align="center"><a href="220.141.133.222/crossroad/"> 220.141.133.222/crossroad/ </a></h3></p>
   
 <div align="center"><img src="img/3_2-600x400.jpg"></div>
 <div align="center">（大纪元合成图）</div></p>  
@@ -811,7 +811,7 @@
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
 <a name=a25-1><h2>【十字路口】反送中十大史诗片段鼓舞人心(上)     </h2></div> 
-<h3 align="center"><a href="220.141.119.31/crossroad/"> 220.141.119.31/crossroad/ </a></h3></p>
+<h3 align="center"><a href="220.141.133.222/crossroad/"> 220.141.133.222/crossroad/ </a></h3></p>
 
 <div align="center"><img src="img/ttl7dayApA.jpg"></div>
 <div align="center">（大纪元）</div></p>  
