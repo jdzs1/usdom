@@ -40,7 +40,7 @@
 <div align=center>
 <img src="img/2019-08-15_114633.jpg" width=100></div> 
 
-<div align=center><h2> <a href="https://github.com/3fmd/true/blob/master/README.md"> ◆  中共正在收紧对私有资产的控制 ◆</a></h2>
+<div align=center><h2> <a href="https://github.com/3fmd/true/blob/master/README.md"> ◆  中共正在收紧对私有资产的控制 ◆</a></h2></div> 
   
 <table>
 <tr>
