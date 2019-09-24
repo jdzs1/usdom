@@ -40,14 +40,9 @@
 <div align=center>
 <img src="img/2019-08-15_114633.jpg" width=100></div> 
 
-<table>
-  <tr>
-
 <div align=center><h2> <a href="https://github.com/3fmd/true/blob/master/README.md"> ◆  中共正在收紧对私有资产的控制 ◆</a></h2>
-</tr> 
-
-
-
+  
+<table>
 <tr>
     <td width=680><a href=#b2>➤ 程晓容：9月新闻透警讯 中共动手侵吞民企   </a> </td>
     <td width=200 ><a href=#b2>大纪元 2019年09月20日</a> </td>
