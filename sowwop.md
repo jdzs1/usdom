@@ -620,9 +620,8 @@
 </div>  
   
   
-<div align="center">
-<img src="img/bb003.jpg"></div></p>
-<a href=#list><h4 align="right">回目錄</a></h4>
+<a href=#list><h6 align="right">回目錄</h6></a>
+ <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
 <a name=w17><h2>程晓容：9月新闻透警讯 中共动手侵吞民企</h2></div> </p>
 
