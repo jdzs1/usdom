@@ -12,11 +12,11 @@
 
 <div align=center>
 <img src="img/b_ornament_51_0M.png" width=880></div>
-<br/>
+<br>
 
 <div align=center>
 <img src="img/ppuu78.jpg" width=880></div>
-<br/>
+<br>
 
 
  <a href="https://git.io/ysys">
@@ -36,6 +36,7 @@
 </td>
   </tr> 
 </table>
+</p>
 
 <div align=center>
 <img src="img/b_illust_72_0M.png" width=680></div> 
@@ -75,10 +76,7 @@
  </tr>   
   
 </table>
-
-
-
-
+</p>
 
 <div align=center>
 <img src="img/b_illust_72_0M.png" width=680></div> 
@@ -94,8 +92,7 @@
   </tr> 
 </table>
 
-<div align=center>
-<img src="img/2019-08-15_114633.jpg" width=100></div> 
+
 
 <table>
 
@@ -296,12 +293,13 @@
  </tr>    
   
 </table> 
- <br/>  
+ </p>  
   
   
   
 <div align=center>
-<img src="img/2019-08-15_114633.jpg" width=200></div>   
+<img src="img/b_illust_72_0M.png" width=680></div> 
+  
   
 <table>  
 
@@ -447,9 +445,11 @@
  </tr>
  
    </table> 
+ </p>
  
  <div align=center>
-<img src="img/2019-08-15_114633.jpg" width=200></div> 
+<img src="img/b_illust_72_0M.png" width=680></div> 
+
  
  
    <table> 
@@ -626,9 +626,12 @@
  </tr> 
  
  </table> 
+ </p>
  
  <div align=center>
-<img src="img/2019-08-15_114633.jpg" width=200></div> 
+<img src="img/b_illust_72_0M.png" width=680></div> 
+
+
  
   <table> 
   
@@ -658,7 +661,7 @@
  </tr> 
  
   </table> 
- <br>
+ </p>
  
   <div align=center>
 <img src="img/b_illust_54_0M.png" width=880>
