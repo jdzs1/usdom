@@ -97,7 +97,7 @@
 <table>
 
 <tr>
-    <td width=680><a href=#a33>b. 川普联大演讲撑香港 批共产、社会主义毁人   </a> </td>
+    <td width=680><a href=#a33>➤ 川普联大演讲撑香港 批共产、社会主义毁人   </a> </td>
     <td width=200 ><a href=#a33>新唐人 2019年09月25日</a> </td>
  </tr>  
 
@@ -294,11 +294,9 @@
   
 </table> 
  </p>  
-  
-  
-  
+   
 <div align=center>
-<img src="img/b_illust_72_0M.png" width=680></div> 
+<img src="img/b_illust_72_0M.png" width=680></div> </p>  
   
   
 <table>  
@@ -448,10 +446,9 @@
  </p>
  
  <div align=center>
-<img src="img/b_illust_72_0M.png" width=680></div> 
+<img src="img/b_illust_72_0M.png" width=680></div> </p>  
 
- 
- 
+
    <table> 
   
   <tr>
@@ -629,9 +626,7 @@
  </p>
  
  <div align=center>
-<img src="img/b_illust_72_0M.png" width=680></div> 
-
-
+<img src="img/b_illust_72_0M.png" width=680></div> </p>  
  
   <table> 
   
