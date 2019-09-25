@@ -100,6 +100,11 @@
 <table>
 
 <tr>
+    <td width=680><a href=#a33>b. 川普联大演讲撑香港 批共产、社会主义毁人   </a> </td>
+    <td width=200 ><a href=#a33>新唐人 2019年09月25日</a> </td>
+ </tr>  
+
+<tr>
     <td width=680><a href=#a32>➤ 武警黑道合作 香港开启戒严状态   </a> </td>
     <td width=200 ><a href=#a32>大纪元 2019年09月20日</a> </td>
  </tr> 
@@ -299,11 +304,6 @@
 <img src="img/2019-08-15_114633.jpg" width=200></div>   
   
 <table>  
-
-<tr>
-    <td width=680><a href=#w16>b. 川普联大演讲撑香港 批共产、社会主义毁人   </a> </td>
-    <td width=200 ><a href=#w16>大纪元</a> </td>
- </tr>  
 
 <tr>
     <td width=680><a href=#w16>b. 神秘录音流出 官员泄露中共陷统治危机 <a href="https://github.com/awwkk/usdom/blob/master/vidio/bbaaw23ssa.aac?raw=true"> ➤【录音下载.aac】</a>  </a> </td>
@@ -668,7 +668,7 @@
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
 <div align=center> 
-<a name=w16><h2>川普联大演讲撑香港 批共产、社会主义毁人</h2></div> </p>
+<a name=a33><h2>川普联大演讲撑香港 批共产、社会主义毁人</h2></div> </p>
 
 <div align="center"><img src="img/2019-09-25-5d8ab454684ba.jpg"></div></p>
 
