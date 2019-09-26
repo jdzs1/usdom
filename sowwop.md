@@ -307,7 +307,7 @@
 <table>  
 
 <tr>
-    <td width=680><a href=#w17>➤ 协助台湾固邦交 美参院外委会通过“台北法案”   </a> </td>
+    <td width=680><a href=#w17>b. 协助台湾固邦交 美参院外委会通过“台北法案”   </a> </td>
     <td width=200 ><a href=#w17>大纪元</a> </td>
  </tr>  
 
