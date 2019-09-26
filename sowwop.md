@@ -307,6 +307,11 @@
 <table>  
 
 <tr>
+    <td width=680><a href=#w17>➤ 协助台湾固邦交 美参院外委会通过“台北法案”   </a> </td>
+    <td width=200 ><a href=#w17>大纪元</a> </td>
+ </tr>  
+
+<tr>
     <td width=680><a href=#w16>b. 神秘录音流出 官员泄露中共陷统治危机 <a href="https://github.com/awwkk/usdom/blob/master/vidio/bbaaw23ssa.aac?raw=true"> ➤【录音下载.aac】</a>  </a> </td>
     <td width=200 ><a href=#w16>大纪元</a> </td>
  </tr>  
@@ -667,6 +672,17 @@
 <img src="img/b_illust_54_0M.png" width=880>
 </div>  
   
+
+<a href=#list><h6 align="right">回目錄</h6></a>
+ <img src="img/b_ornament_137_0M.png" width=880>  
+<div align=center> 
+<a name=w17><h2>协助台湾固邦交 美参院外委会通过“台北法案”</h2></div> </p>
+
+<div align="center"><img src="img/2019-09-26_135234.jpg"></div>
+<div align="center">http://asset2.ntdtv.com.tw/public/uploads/assets/2019/09/26/2019-09-26-5d8bf2f729657.mp4</div></p>
+
+【新唐人亚太台 2019 年 09 月 26 日讯】继续看到，美国参议院外交委员会25日通过“台北法案”，参议员贾德纳表示，这项法案向各国传递强烈讯息，若支持中国大陆采取有损台湾的行动，将会面临后果。据先前版本，美国国务卿每180天要向相关国会委员会提出报告，详述行政部门采取哪些作为，强化台湾的国际结盟。法案也要求行政部门采取行动与各国交涉，促使这些国家的政府维持与台湾的邦交，或是加强非官方关系。法案接下来会被送至参议院审议，之后还需众议院通过，才能被美国总统签署生效。</p>
+
 
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>  
