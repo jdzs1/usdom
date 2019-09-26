@@ -239,7 +239,10 @@
 <a name=list><b>目录</b>
 <table>
  
- 
+<tr>
+<td width=900>
+<a href="#002">➤ 证人揭中共活摘器官 律师将证据送联合国</a></td></tr>  
+
  <tr>
 <td width=900>
 <a href="#001">➤ 曾亲手活摘未成年人器官 中国医院前实习生曝真相</a></td></tr>  
@@ -320,7 +323,25 @@
 <td width=900>
 <a href="#10">➤ 武汉市“安康医院”的罪恶</a></td></tr> 
  </table>
- 
+ </p>
+
+<div align="center">
+<img src="img/bb003.jpg"></div></p>
+<a href=#list-1><h4 align="right">回目錄</a></h4>
+<div align=center> 
+<a name=002><h2>证人揭中共活摘器官 律师将证据送联合国</h2></div> </p>
+
+<div align="center"><img src="img/2019-09-26_132458.jpg"></div></p>
+
+
+【新唐人亚太台 2019 年 09 月 26 日讯】在第74届联合国大会期间，9月25日，DAFOH医生反对强摘器官协会，在纽约举行揭露中共活摘器官罪行的新闻发布会，出席发布会的小组成员中，有两名来自中国的证人，他们的父母器官遭摘取。另外，国际独立“人民法庭”的高级律师、“人民法庭”顾问哈米德·萨比（Hamid Sabi）在日内瓦人权理事会总部发表讲话，介绍了国际独立“人民法庭”的调查结果，他表示，中共当局正以职业规模摘取和出售人体器官，他敦促联合国最高人权机构，调查中共正在谋杀法轮功修炼团体的成员并强摘他们的器官进行非法器官移植。</p>
+
+专家揭中共活摘器官 纽约记者会直播 </p>
+
+<div align="center"><img src="img/2019-09-26_132850.jpg"></div>
+<div align="center">https://youtu.be/-b3iSUZzuh8</div></p>
+
+
 
 <div align="center">
 <img src="img/bb003.jpg"></div></p>
