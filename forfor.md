@@ -15,6 +15,13 @@
 <img src="img/c76416b55ce4ce34a568fc135e8eea17.jpg" width=680></div></p>
 
 <div align="center">
+<img src="img/2019-09-29_163936.jpg" width=680></div>
+<div align="center">美国彻底追究人权迫害者 在美共产党员将成亡命之徒</div>
+<div align="center">“法轮大法明慧网”日前发表文章，征集已经进入美国参与迫害法轮功学员的人员名单，并准备将名单递交给美国移民与海关执法局，要求美方将这些人抓捕遣返。</div></p>
+
+
+
+<div align="center">
 <img src="img/2019-08-28_135433.jpg" width=280></div></p>
 
 <h2 align="center">➤  遭举报迫害法轮功的恶人</h2></p>
