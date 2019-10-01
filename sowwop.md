@@ -3,7 +3,7 @@
 
 <div align=center>
 <img src="img/wwsukk925.jpg" width=880>
-  <h3 align=center>翻墙必看 视频 http://220.141.132.241 </h3>
+  <h3 align=center>翻墙必看 视频 http://36.228.38.40 </h3>
   
   
 
