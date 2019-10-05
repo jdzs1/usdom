@@ -595,6 +595,14 @@
   </table> 
  </p>
  
+ <table>
+   <tr>
+    <td >
+<div align=center><a href="https://git.io/tgc">• 点阅《如何三退》•</a></div>
+</td>
+</table>
+</p>
+
   <div align=center>
 <img src="img/b_illust_54_0M.png" width=880>
 </div>  
