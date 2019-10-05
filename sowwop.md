@@ -449,8 +449,6 @@
 </table> 
  </p>
 
-<div align=center><h2> <a href="https://github.com/3fmd/true/blob/master/README.md"> ◆   更多新闻  ◆</a></h2></div>
-
  <div align=center>
 <img src="img/b_illust_72_0M.png" width=680></div> </p>  
 
@@ -566,6 +564,7 @@
 <div align=center>
 <img src="img/b_illust_72_0M.png" width=680></div> </p>  
  
+<div align=center><h2> <a href="https://github.com/3fmd/true/blob/master/README.md"> ◆   三退新闻  ◆</a></h2></div> 
   <table> 
   
  <tr>
