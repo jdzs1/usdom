@@ -4,7 +4,7 @@
   </tr> 
 </table>
 
-<a name=list><h6>回目錄</h6></a>
+<a name=list><h6>目錄</h6></a>
 <table>
   <tr>
     <td width=680><a href=#a15>➤ 港警抓人引发局势升级 欧盟发声力挺抗议者    </a> </td>
@@ -556,12 +556,6 @@
 
 责任编辑：连书华</p>
   
-
-<a href=#list><h6 align="right">回目錄</h6></a>
- <img src="img/b_ornament_137_0M.png" width=880>
-
-
-
 <a href=#list><h6 align="right">回目錄</h6></a>
  <img src="img/b_ornament_137_0M.png" width=880>
 <div align=center>
@@ -2019,7 +2013,8 @@ Kelly Wong认为香港完全处于中国（中共）的控制之下，她表示�
 
 责任编辑：李昊</p>
 
-
+<a href=#list><h6 align="right">回目錄</h6></a>
+ <img src="img/b_ornament_137_0M.png" width=880>
 
 
 
