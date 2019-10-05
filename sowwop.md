@@ -325,7 +325,138 @@
    
 <div align=center>
 <img src="img/b_illust_72_0M.png" width=680></div> </p>  
+
+<div align=center><h2> <a href="https://github.com/3fmd/true/blob/master/README.md"> ◆   新闻集锦  ◆</a></h2></div> 
+
+<table>  
+
+<tr>
+    <td width=680><a href=#w19>b. 百度浏览器正式停止服务 高管现离职潮   </a> </td>
+    <td width=200 ><a href=#w19>大纪元</a> </td>
+ </tr> 
+
+
+<tr>
+    <td width=680><a href=#w18>b. 【特稿】没有国庆只有国殇 国人觉醒迎希望   </a> </td>
+    <td width=200 ><a href=#w18>大纪元</a> </td>
+ </tr> 
+
+<tr>
+    <td width=680><a href=#w17>b. 协助台湾固邦交 美参院外委会通过“台北法案”   </a> </td>
+    <td width=200 ><a href=#w17>大纪元</a> </td>
+ </tr>  
+
+<tr>
+    <td width=680><a href=#w16>b. 神秘录音流出 官员泄露中共陷统治危机 <a href="https://github.com/awwkk/usdom/blob/master/vidio/bbaaw23ssa.aac?raw=true"> ➤【录音下载.aac】</a>  </a> </td>
+    <td width=200 ><a href=#w16>大纪元</a> </td>
+ </tr>  
+
+<tr>
+    <td width=680><a href=#w15>b. 王赫：习近平当前面临的四重困境   </a> </td>
+    <td width=200 ><a href=#w15>大纪元</a> </td>
+ </tr>  
+
+<tr>
+    <td width=680><a href=#w14>b. 程晓容：中共代理人海外行不义 下场可悲   </a> </td>
+    <td width=200 ><a href=#w14>大纪元</a> </td>
+ </tr>   
+
+ <tr>
+    <td width=680><a href=#w13>b. 中共在LinkedIn招间谍 丹麦前外交官揭秘   </a> </td>
+    <td width=200 ><a href=#w13>大纪元</a> </td>
+ </tr>    
+ 
+ <tr>
+    <td width=680><a href=#w12>b. 法轮功学员将恶人名单递交美国国务院   </a> </td>
+    <td width=200 ><a href=#w12>明慧网</a> </td>
+ </tr>  
+   
+<tr>
+    <td width=680><a href=#w11>b. 迫害法轮功者 美拒发签证 新制裁震慑中共   </a> </td>
+    <td width=200 ><a href=#w11>大纪元</a> </td>
+ </tr>     
+ 
+ <tr>
+    <td width=680><a href=#w10>b. 接见宗教受迫害者 川普询问法轮功学员情况  </a> </td>
+    <td width=200 ><a href=#w10>大纪元</a> </td>
+ </tr>    
+   
+<tr>
+    <td width=680><a href=#w8>b. 大陆汽车经销巨头“庞大集团”宣布破产  </a> </td>
+    <td width=200 ><a href=#w8>大纪元</a> </td>
+ </tr>     
+    
+<tr>
+    <td width=680><a href=#w6>b. 美中谈判纳入人权议题 江家资产面临清算  </a> </td>
+    <td width=200 ><a href=#w6>新唐人</a> </td>
+ </tr>    
   
+ 
+<tr>
+    <td width=680><a href=#w5>b. 美国严审签证 魏京生：亲共者需要考虑了</a> </td>
+    <td width=200 ><a href=#w5>大纪元</a> </td>
+ </tr>   
+  
+ <tr>
+    <td width=680><a href=#w5-1>b. 独家调查：劳教所秘拍视频揭中共奴工黑幕</a> </td>
+    <td width=200 ><a href=#w5-1>大纪元</a> </td>
+ </tr>    
+  
+   <tr>
+    <td width=680><a href=#w5-2>b. 冒死拍摄中共迫害罪行 于溟：挽救更多生命</a> </td>
+    <td width=200 ><a href=#w5-2>大纪元</a> </td>
+ </tr>   
+  
+  <tr>
+    <td width=680><a href=#w4-a>b. 【九评13周年】中共给中国带来了什么</a> </td>
+    <td width=200 ><a href=#w4-a>大纪元</a> </td>
+ </tr> 
+  
+   <tr>
+    <td width=680><a href=#w3-2>b. 陆媒罕见大尺度刊文：一场重大变革正席卷中国 </a> </td>
+    <td width=200 ><a href=#w3-2>新唐人</a> </td>
+ </tr> 
+  
+   <tr>
+    <td width=680><a href=#w0>b. 中共悄悄送給越南的島 比釣魚島還大！ </a> </td>
+    <td width=200 ><a href=#w0>新唐人</a> </td>
+ </tr> 
+  
+   <tr>
+    <td width=680><a href=#w1>b. 1949年后中国丢失多少国土？真实数据超想像 </a> </td>
+    <td width=200 ><a href=#w1>新唐人</a> </td>
+ </tr> 
+  
+   <tr>
+    <td width=680><a href=#w2-1>b. 中共严密封锁的信息：死亡职位（上） </a> </td>
+    <td width=200 ><a href=#w2-1>大纪元</a> </td>
+ </tr> 
+  
+  <tr>
+    <td width=680><a href=#w3-1>b. 中共严密封锁的信息：死亡职位（下） </a> </td>
+    <td width=200 ><a href=#w3-1>大纪元</a> </td>
+ </tr> 
+ 
+   <tr>
+    <td width=680><a href=#w0-a>b. 中共哈尔滨政法委“610”官员厄运缠身 </a> </td>
+    <td width=200 ><a href=#w0-a>大纪元</a> </td>
+ </tr> 
+
+<div align=center><h2> <a href="https://github.com/3fmd/true/blob/master/README.md"> ◆   更多新闻  ◆</a></h2></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
