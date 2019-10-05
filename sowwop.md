@@ -452,7 +452,7 @@
  <div align=center>
 <img src="img/b_illust_72_0M.png" width=680></div> </p>  
 
-
+<div align=center><h2> <a href="https://github.com/3fmd/true/blob/master/README.md"> ◆  法轮功学员被（非法）残酷迫害  ◆</a></h2></div> 
    <table> 
   
   <tr>
@@ -597,8 +597,8 @@
  
  <table>
    <tr>
-    <td >
-<div align=center><a href="https://github.com/awwkk/usdom/blob/master/README.md">• 点阅《如何三退》•</a></div>
+    <td width=880>
+<div align=center><h3><a href="https://github.com/awwkk/usdom/blob/master/README.md">• 点阅《如何三退》•</a></h3></div>
 </td>
 </table>
 </p>
