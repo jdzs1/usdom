@@ -1,5 +1,5 @@
 <div align=center><h2> <a href="https://github.com/3fmd/true/blob/master/README.md"> ◆   新闻集锦  ◆</a></h2></div> 
-
+ <table> 
  <tr>
     <td width=680><a href=#w0-b>b. 川人：中秋节话感恩，挡不住的良知回归潮</a> </td>
     <td width=200 ><a href=#w0-b>大纪元</a> </td>
