@@ -341,7 +341,7 @@
  </tr> 
  
  <tr>
-    <td width=680><a href="https://github.com/awwkk/usdom/blob/master/sowwop2.md"> ◆   更多.......  ◆</a> </td>
+    <td width=680><a href="https://github.com/3fmd/true/blob/master/README.md"> ◆   更多.......  ◆</a> </td>
     <td width=200 >大纪元</a> </td>
  </tr> 
 </table> 
@@ -4974,7 +4974,12 @@ http://cn.ntdtv.com/xtr/b5/2018/09/06/a1390424_p.html
 
 过去一年多来，孙茜的遭遇引起加拿大民众、政要、媒体以及国际社会的广泛关注。孙茜的妹妹曾透露，二零一七年五月，加拿大驻中共大使馆派人到北京市第一看守所会见了孙茜，发现她有被施以酷刑。孙茜曾被四名男警察按在地上用辣椒水喷脸、坐铁椅子、二十四小时戴手铐脚镣、睡觉时每三十分钟被唤醒一次、六十天不能换衣服等非人道待遇。看守所连续十三天对孙茜上了“工字铐”（即两手固定在一起，没有链的刑具），无论吃饭、睡觉、走路、上厕所都戴着刑具。
 
-
+ <a href=#list><h6 align="right">回目錄</h6></a>
+     
+   <div align=center>
+<img src="img/b_ornament_137_0M.png" width=880>
+</div>  
+ <br/>  
 <div align=center>     
 <a name=10><h2>来自马三家的无声咆哮——孙毅的故事 </a>  </h2></div>  
  <div align=center> 多次揭马三家真相 50岁孙毅“病逝”于印尼  </div>  
