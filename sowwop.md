@@ -598,7 +598,7 @@
  <table>
    <tr>
     <td >
-<div align=center><a href="https://git.io/tgc">• 点阅《如何三退》•</a></div>
+<div align=center><a href="https://github.com/awwkk/usdom/blob/master/README.md">• 点阅《如何三退》•</a></div>
 </td>
 </table>
 </p>
