@@ -358,25 +358,7 @@
     <td width=200 ><a href=#1-1>大纪元</a> </td>
  </tr>
   
-  <tr>
-    <td width=680><a href=#1>1.安徽猪瘟泛滥 民众普遍不知情 猪肉仍流通</a> </td>
-    <td width=200 ><a href=#1>大纪元</a> </td>
- </tr>
   
-  <tr>
-    <td width=680><a href=#2>2.河南疫苗受害家庭的苦难历程（一）</a> </td>
-    <td width=200 ><a href=#2>大纪元</a> </td>
- </tr>
-   
-   <tr>
-    <td width=680><a href=#3>3.河南疫苗受害家庭的苦难历程（二）</a> </td>
-    <td width=200 ><a href=#3>大纪元</a> </td>
- </tr>
- 
- <tr>
-    <td width=680><a href=#4>4.大陆8月天灾人祸不断 社会危机重重</a> </td>
-    <td width=200 ><a href=#4>大纪元</a> </td>
- </tr>
    
    <tr>
     <td width=680><a href=#5>5.马三家酷刑受害者：我要站出来说话(1)</a> </td>
@@ -408,36 +390,7 @@
     <td width=200 ><a href=#10>大纪元</a> </td>
  </tr>
    
-   <tr>
-    <td width=680><a href=#11>11.【新闻看点】手机出国仍被控 中共审查严厉 </a> </td>
-    <td width=200 ><a href=#11>大纪元</a> </td>
- </tr>
-   
-  <tr>
-  <td width=680><a href=#11-1>11-1.【2020中共全面监控农村 分析：监控不了民心 </a> </td>
-    <td width=200 ><a href=#11-1>大纪元</a> </td>
- </tr>
-   
-   <tr>
-    <td width=680><a href=#11-2>11-2.【新闻看点】遭全方位挤压 明星私企被“宰” </a> </td>
-    <td width=200 ><a href=#11-2>大纪元</a> </td>
- </tr>
-   
-<tr>
-    <td width=680><a href=#12>12.打压宗教自由再升级 中共祭出新招近变态 </a> </td>
-    <td width=200 ><a href=#12>希望之声</a> </td>
- </tr>
-   
-<tr>
-    <td width=680><a href=#13>13.绝处逢生的台湾保险业务菁英 </a> </td>
-    <td width=200 ><a href=#13>明慧网</a> </td>
- </tr>   
-   
-   <tr>
-    <td width=680><a href=#14>14.一位大陆学生的思考 </a> </td>
-    <td width=200 ><a href=#14>明慧网</a> </td>
- </tr>   
-   
+ 
    <tr>
     <td width=680><a href=#15>15.孙茜面临非法庭审　法轮功学员呼吁释放（图） </a> </td>
     <td width=200 ><a href=#15>明慧网</a> </td>
@@ -453,7 +406,7 @@
     <td width=200 ><a href=#17>大纪元</a> </td>
  </tr>   
  <tr>
-    <td width=680><a href="https://github.com/3fmd/true/blob/master/README.md"> ◆   更多.......  ◆</a> </td>
+    <td width=680><a href="https://github.com/3fmd/true/blob/master/sowwop3.md"> ◆   更多.......  ◆</a> </td>
     <td width=200 >大纪元</a> </td>
  </tr> 
 </table> 
