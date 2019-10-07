@@ -24,10 +24,10 @@
 <table>
 <tr>
     <td width=440>
-<div align=center><a href="https://github.com/goodabc/GCC/blob/master/goal.md">• 点阅《共产主义的终极目的》•</a></div>
+<div align=center><a href="https://git.io/toto">• 点阅《共产主义的终极目的》•</a></div>
 </td>
   <td width=440>
-<div align=center><a href="https://github.com/goodabc/GCC/blob/master/9p.md?995995">• 点阅《九评共产党》•</a></div>
+<div align=center><a href="https://git.io/9p9p">• 点阅《九评共产党》•</a></div>
 </td>
   </tr> 
 </table>
