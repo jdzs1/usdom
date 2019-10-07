@@ -406,7 +406,7 @@
     <td width=200 ><a href=#17>大纪元</a> </td>
  </tr>   
  <tr>
-    <td width=680><a href="https://github.com/awwkk/usdom/blob/master/sowwop3.md"> ◆   更多.......  ◆</a> </td>
+    <td width=680><a href="https://git.io/ykkk"> ◆   更多.......  ◆</a> </td>
     <td width=200 >大纪元</a> </td>
  </tr> 
 </table> 
