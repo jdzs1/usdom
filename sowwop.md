@@ -478,9 +478,8 @@
 </div>  
 
 
-<div align="center">
-<img src="img/bb003.jpg"></div></p>
-<a href=#list><h4 align="right">回目錄</a></h4>
+<a href=#list><h6 align="right">回目錄</h6></a>
+ <img src="img/b_ornament_137_0M.png" width=880> 
 <div align=center> 
 <a name=f><h2>王友群：“天灭中共”前 赶紧退出中共</h2></div> </p>
 
@@ -578,9 +577,8 @@
 责任编辑：高义 </p>
 
 
-<div align="center">
-<img src="img/bb003.jpg"></div></p>
-<a href=#list><h4 align="right">回目錄</a></h4>
+<a href=#list><h6 align="right">回目錄</h6></a>
+ <img src="img/b_ornament_137_0M.png" width=880> 
 <div align=center> 
 <a name=w20><h2>汪志远：全民反共反迫害开始了</h2></div> </p>
 
