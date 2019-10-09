@@ -374,24 +374,22 @@
    <table> 
  
 <tr>
-    <td width=680><a href=#1-2>0.法轮功学员缪小露被迫害致死的悲惨遭遇</a> </td>
+    <td width=680><a href=#1-2>11.法轮功学员缪小露被迫害致死的悲惨遭遇</a> </td>
     <td width=200 ><a href=#1-2>大纪元</a> </td>
  </tr> 
  
   <tr>
-    <td width=680><a href=#1-1>0.人权律师揭610操控司法 枉判法轮功学员</a> </td>
+    <td width=680><a href=#1-1>10.人权律师揭610操控司法 枉判法轮功学员</a> </td>
     <td width=200 ><a href=#1-1>大纪元</a> </td>
  </tr>
   
-  
-   
    <tr>
-    <td width=680><a href=#5>5.马三家酷刑受害者：我要站出来说话(1)</a> </td>
+    <td width=680><a href=#5>9.马三家酷刑受害者：我要站出来说话(1)</a> </td>
     <td width=200 ><a href=#5>大纪元</a> </td>
  </tr>
    
    <tr>
-    <td width=680><a href=#6>6.马三家酷刑受害者：我要站出来说话(2)</a> </td>
+    <td width=680><a href=#6>8.马三家酷刑受害者：我要站出来说话(2)</a> </td>
     <td width=200 ><a href=#6>大纪元</a> </td>
  </tr>
  
@@ -401,33 +399,33 @@
  </tr>
  
  <tr>
-    <td width=680><a href=#8>8.马三家酷刑受害者：我要站出来说话(4)</a> </td>
+    <td width=680><a href=#8>6.马三家酷刑受害者：我要站出来说话(4)</a> </td>
     <td width=200 ><a href=#8>大纪元</a> </td>
  </tr>
  
    <tr>
-    <td width=680><a href=#9>9.马三家幸存者：认识的10位法轮功学员被迫害死</a> </td>
+    <td width=680><a href=#9>5.马三家幸存者：认识的10位法轮功学员被迫害死</a> </td>
     <td width=200 ><a href=#9>大纪元</a> </td>
  </tr>
    
   <tr>
-    <td width=680><a href=#10>10.来自马三家的无声咆哮——孙毅的故事 </a> </td>
+    <td width=680><a href=#10>4.来自马三家的无声咆哮——孙毅的故事 </a> </td>
     <td width=200 ><a href=#10>大纪元</a> </td>
  </tr>
    
  
    <tr>
-    <td width=680><a href=#15>15.孙茜面临非法庭审　法轮功学员呼吁释放（图） </a> </td>
+    <td width=680><a href=#15>3.孙茜面临非法庭审　法轮功学员呼吁释放（图） </a> </td>
     <td width=200 ><a href=#15>明慧网</a> </td>
  </tr>  
    
 <tr>
-    <td width=680><a href=#16>16.曹长青：法轮功学员被摘器官是真的吗？ </a> </td>
+    <td width=680><a href=#16>2.曹长青：法轮功学员被摘器官是真的吗？ </a> </td>
     <td width=200 ><a href=#16>大纪元</a> </td>
  </tr>   
  
  <tr>
-    <td width=680><a href=#17>17.“他还活着” 前中国医生追述强摘器官的恐怖 </a> </td>
+    <td width=680><a href=#17>1.“他还活着” 前中国医生追述强摘器官的恐怖 </a> </td>
     <td width=200 ><a href=#17>大纪元</a> </td>
  </tr>   
  <tr>
