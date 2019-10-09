@@ -502,7 +502,7 @@
 
 缪小露，齐齐哈尔市昂昂溪区人。她身上透出那种中华传统女性独特的风韵，温文尔雅、真诚、善良，曾在昂昂溪区政府工作。</p>
 
-<div align="center"><img src="img/2019-10-5-mh-liaoxiaolu-1-1-600x895.jpg"></div>
+<div align="center"><img src="img/2019-10-5-mh-liaoxiaolu-1-1-600x895.jpg" width=300></div>
 <div align="center">缪小露遗照。（明慧网）</div></p>
 
 2001年12月27日，她遭绑架，数日后被转到齐市第二看守所，次年4月10日被冤判5年，9月份被关进了黑龙江省女子监狱。</p>
@@ -558,20 +558,20 @@
 
 狱警问缪小露她们服不服从监狱的管理。缪说：“我们做好人，我不是犯人，不能服从。”缪小露在“小号”里被迫害了19天后才送回监区。</p>
 
-<div align="center"><img src="img/2005-10-15-heizuizi-06-600x450.jpg"></div>
+<div align="center"><img src="img/2005-10-15-heizuizi-06-600x450.jpg" width=300></div>
 <div align="center">中共酷刑示意图：关小号。（明慧网）</div></p>
 
 <b>再遭毒计</b></p>
 
 2004年4月6日，狱警康亚珍把缪小露等7人挨个叫到办公室里，问她们戴不戴名签，能不能服从管理。她们都答“不能”。于是警察给她们上“大挂”、“背剑”。
 </p>
-<div align="center"><img src="img/2011-5-2-minghui-persecution-222413-1-600x450.jpg"></div>
+<div align="center"><img src="img/2011-5-2-minghui-persecution-222413-1-600x450.jpg" width=300></div>
 <div align="center">中共酷刑演示：大背铐。（明慧网）</div></p>
 
-<div align="center"><img src="img/2004-11-11-hljbeijing2-600x660.jpg"></div>
+<div align="center"><img src="img/2004-11-11-hljbeijing2-600x660.jpg" width=300></div>
 <div align="center">中共酷刑示意图：“背剑”。（明慧网）</div></p>
 
-<div align="center"><img src="img/2012-6-18-cmh-kuxingtu-06-600x979.jpg"></div>
+<div align="center"><img src="img/2012-6-18-cmh-kuxingtu-06-600x979.jpg" width=300></div>
 <div align="center">中共酷刑示意图：吊挂。（明慧网）</div></p>
 
 缪小露的腿被吊得不能站、不能蹲，一只手从肩上反背过来，另一只手从下面再反背过去铐在上铺床的梯子上。一会儿，她就感到恶心，一下就虚脱昏过去了。等她醒过来时，全身已被汗水湿透。</p>
