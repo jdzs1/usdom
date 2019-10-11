@@ -180,15 +180,7 @@
     <td width=200 ><a href=#a25-2>大纪元 2019年09月10日</a> </td>
  </tr> 
 
-<tr>
-    <td width=680><a href=#a27>➤ 北京为何注定得不到香港的真实情报    </a> </td>
-    <td width=200 ><a href=#a27>大纪元 2019年09月08日</a> </td>
- </tr> 
 
-<tr>
-    <td width=680><a href=#a26>➤ 多国精英联名 吁美速立香港人权法 实施制裁    </a> </td>
-    <td width=200 ><a href=#a26>大纪元 2019年09月07日</a> </td>
- </tr> 
 
 <tr>
     <td width=680><a href=#a25-1>➤ 【十字路口】反送中十大史诗片段鼓舞人心(上)  </a> <br>  https://youtu.be/FtoEwyG9vyQ</td>
