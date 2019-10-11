@@ -8,6 +8,17 @@
 
 <a name=list><h6>目錄</h6></a>
 <table>
+  
+<tr>
+    <td width=680><a href=#a27>➤ 北京为何注定得不到香港的真实情报    </a> </td>
+    <td width=200 ><a href=#a27>大纪元 2019年09月08日</a> </td>
+ </tr> 
+
+<tr>
+    <td width=680><a href=#a26>➤ 多国精英联名 吁美速立香港人权法 实施制裁    </a> </td>
+    <td width=200 ><a href=#a26>大纪元 2019年09月07日</a> </td>
+ </tr>   
+  
   <tr>
     <td width=680><a href=#a15>➤ 港警抓人引发局势升级 欧盟发声力挺抗议者    </a> </td>
     <td width=200 ><a href=#a15>大纪元 2019年08月31日</a> </td>
