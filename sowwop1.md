@@ -19,6 +19,37 @@
     <td width=200 ><a href=#a26>大纪元 2019年09月07日</a> </td>
  </tr>   
   
+ <tr>
+    <td width=680><a href=#a25>➤ 美国会委员会挺港人抗争 支持五大诉求    </a> </td>
+    <td width=200 ><a href=#a25>大纪元 2019年09月05日</a> </td>
+ </tr> 
+
+<tr>
+    <td width=680><a href=#a24>➤ 林郑公布：正式撤回修例 拒设独立调查    </a> </td>
+    <td width=200 ><a href=#a24>大纪元 2019年09月04日</a> </td>
+ </tr> 
+
+<tr>
+    <td width=680><a href=#a23>➤ 专访萧若元：习最后时刻叫停紧急法    </a> </td>
+    <td width=200 ><a href=#a23>大纪元 2019年09月04日</a> </td>
+ </tr> 
+
+<tr>
+    <td width=680><a href=#a22>➤ 专访萧若元：林郑录音泄露可能是北京授意    </a> </td>
+    <td width=200 ><a href=#a22>大纪元 2019年09月04日</a> </td>
+ </tr> 
+
+
+<tr>
+    <td width=680><a href=#a21>➤ 美共和党领袖警告中共：香港局势 全球注视    </a> </td>
+    <td width=200 ><a href=#a21>大纪元 2019年09月03日</a> </td>
+ </tr>  
+    
+<tr>
+    <td width=680><a href=#a20>➤ 局势突然剧变 武警部队疑换防时进入香港     </a> </td>
+    <td width=200 ><a href=#a20>大纪元 2019年09月02日</a> </td>
+ </tr>   
+  
   <tr>
     <td width=680><a href=#a15>➤ 港警抓人引发局势升级 欧盟发声力挺抗议者    </a> </td>
     <td width=200 ><a href=#a15>大纪元 2019年08月31日</a> </td>
