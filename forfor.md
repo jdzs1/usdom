@@ -9,7 +9,7 @@
 
 <img src="img/ffrd55.jpg" width=900></p>
 
-<h2 align="center"><a href="https://git.io/zbaaas">➤ 退党、退团、退队（三退）方法 ( 可使用真名、化名、小名退 ) https://git.io/zbaaas </a></h2></p>
+<h2 align="center"><a href="https://git.io/ssoskk">➤ 退党、退团、退队（三退）方法 ( 可使用真名、化名、小名退 ) https://git.io/ssoskk </a></h2></p>
 
 <div align="center">
 <img src="img/c76416b55ce4ce34a568fc135e8eea17.jpg" width=680></div></p>
