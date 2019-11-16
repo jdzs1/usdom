@@ -37,10 +37,10 @@
   <table>
    <tr>
     <td width=440>
-<div align=center><a href="https://git.io/tgc">• 点阅《共产主义的终极目的》•</a></div>
+<div align=center><a href="http://git.io/got15e">• 点阅《共产主义的终极目的》•</a></div>
 </td>
   <td width=440>
-<div align=center><a href="https://git.io/sos">• 点阅《九评共产党》•</a></div>
+<div align=center><a href="https://git.io/9p9pos">• 点阅《九评共产党》•</a></div>
 </td>
   </tr> 
 </table> 
