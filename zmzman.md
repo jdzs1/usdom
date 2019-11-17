@@ -54,7 +54,7 @@
 </a></td></tr>
 
 <tr><td width=900>
-➤ 迫害法轮功是死路 明白真相是生路 https://git.io/tr 
+➤ 迫害法轮功是死路 明白真相是生路 https://git.io/trtptp 
 </td></tr>
 
 <tr><td width=900>
@@ -86,7 +86,7 @@
 </a></td></tr>
 
 <tr><td width=900>
-➤ 海外三退大潮 https://git.io/zbdodo
+➤ 海外三退大潮 https://git.io/ssoskk
 </a></td></tr>
 </table>
 </p>
