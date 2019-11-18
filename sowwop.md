@@ -19,15 +19,15 @@
 <br/>
 
 <div align=center>
-<a name=list><h3><a href="https://">中国禁闻 时时更新 请随时关注 並记下短连结 【 https://git.io/kkopop 】</a></h3></div>
+<a name=list><h3><a href="https://">中国禁闻 时时更新 请随时关注 並记下短连结 【 https://git.io/opopkk 】</a></h3></div>
 
 <table>
 <tr>
     <td width=440>
-<div align=center><a href="https://git.io/toto">• 点阅《共产主义的终极目的》•</a></div>
+<div align=center><a href="http://git.io/got15e">• 点阅《共产主义的终极目的》•</a></div>
 </td>
   <td width=440>
-<div align=center><a href="https://git.io/9p9p">• 点阅《九评共产党》•</a></div>
+<div align=center><a href="https://git.io/9p9pos">• 点阅《九评共产党》•</a></div>
 </td>
   </tr> 
 </table>
