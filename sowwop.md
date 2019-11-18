@@ -637,7 +637,8 @@
 责任编辑：叶梓明</p>
 
 
-
+<a href=#list><h6 align="right">回目錄</h6></a>
+ <img src="img/b_ornament_137_0M.png" width=880> 
 <div align=center> 
 <a name=w22><h2>黑死病与罗马帝国的覆亡</h2></div> </p>
 <div align="center"><img src="img/1509131930042669.jpg"></div>
