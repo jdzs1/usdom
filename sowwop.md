@@ -351,7 +351,7 @@
  </tr> 
  
  <tr>
-    <td width=680><a href="https://github.com/3fmd/true/blob/master/README.md"> ◆   更多.......  ◆</a> </td>
+    <td width=680><a href="https://git.io/ls02"> ◆   更多.......  ◆</a> </td>
     <td width=200 >大纪元</a> </td>
  </tr> 
 </table> 
@@ -439,7 +439,7 @@
     <td width=200 ><a href=#17>大纪元</a> </td>
  </tr>   
  <tr>
-    <td width=680><a href="https://git.io/ykkk"> ◆   更多.......  ◆</a> </td>
+    <td width=680><a href="https://git.io/trtptp"> ◆   更多.......  ◆</a> </td>
     <td width=200 >大纪元</a> </td>
  </tr> 
 </table> 
@@ -482,7 +482,7 @@
  </tr> 
  
   <tr>
-    <td width=680><a href="https://git.io/for999"> ◆   更多.......  ◆</a> </td>
+    <td width=680><a href="https://git.io/ssoskk"> ◆   更多.......  ◆</a> </td>
     <td width=200 >大纪元</a> </td>
  </tr> 
   </table> 
