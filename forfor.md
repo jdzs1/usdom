@@ -4,7 +4,7 @@
 <h3 align="center"><a href="http://220.141.129.66">每个人都有知道真相的权利  翻墙必看  http://220.141.129.66 </a> </h3>
 
 
-<h4 align="center"><a href="https://git.io/55"> “四•二五”上访真相  https://git.io/ykykyk </a> </h4>
+<h4 align="center"><a href="https://git.io/ykykyk"> “四•二五”上访真相  https://git.io/ykykyk </a> </h4>
 <h4 align="center">➤ 看更多 https://git.io/orhb </h4>
 
 <img src="img/ffrd55.jpg" width=900></p>
