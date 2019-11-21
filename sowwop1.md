@@ -8,7 +8,53 @@
 
 <a name=list><h6>目錄</h6></a>
 <table>
-  
+
+<tr>
+    <td width=680><a href=#a33>➤ 川普联大演讲撑香港 批共产、社会主义毁人   </a> </td>
+    <td width=200 ><a href=#a33>新唐人 2019年09月25日</a> </td>
+ </tr>  
+
+<tr>
+    <td width=680><a href=#a32>➤ 武警黑道合作 香港开启戒严状态   </a> </td>
+    <td width=200 ><a href=#a32>大纪元 2019年09月20日</a> </td>
+ </tr> 
+
+<tr>
+    <td width=680><a href=#a31>➤ 香港人权法案若通过 对大陆和香港有何影响   </a> </td>
+    <td width=200 ><a href=#a31>大纪元 2019年09月20日</a> </td>
+ </tr> 
+
+<tr>
+    <td width=680><a href=#a30>➤ 美议长力挺香港人权法案 向中共释强硬信号   </a> </td>
+    <td width=200 ><a href=#a30>新唐人 2019年09月19日</a> </td>
+ </tr> 
+
+<tr>
+    <td width=680><a href=#a29>➤ 香港反送中运动百日 民间诉求转向驱逐中共   </a> </td>
+    <td width=200 ><a href=#a29>大纪元 2019年09月18日</a> </td>
+ </tr> 
+
+<tr>
+    <td width=680><a href=#a28>➤ 黄之锋访德：香港是抗共桥头堡.新冷战的柏林   </a> </td>
+    <td width=200 ><a href=#a28>新唐人 2019年09月10日</a> </td>
+ </tr> 
+
+
+<tr>
+    <td width=680><a href=#a25-2>➤ 【十字路口】反送中十大史诗片段鼓舞人心(下) </a> <br> https://youtu.be/tHlbdGOXgLM </td>
+    <td width=200 ><a href=#a25-2>大纪元 2019年09月10日</a> </td>
+ </tr> 
+
+<tr>
+    <td width=680><a href=#a25-1>➤ 【十字路口】反送中十大史诗片段鼓舞人心(上)  </a> <br>  https://youtu.be/FtoEwyG9vyQ</td>
+    <td width=200 ><a href=#a25-1>大纪元 2019年09月06日</a> </td>
+ </tr> 
+
+<tr>
+<td width=680><a href=#a19>➤ 吴明德: 《紧急法》惨过《送中条例》十倍    </a> </td>
+    <td width=200 ><a href=#a19>大纪元 2019年09月01日</a> </td>
+ </tr>  
+
 <tr>
     <td width=680><a href=#a27>➤ 北京为何注定得不到香港的真实情报    </a> </td>
     <td width=200 ><a href=#a27>大纪元 2019年09月08日</a> </td>
