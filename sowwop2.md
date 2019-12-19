@@ -96,7 +96,7 @@
 <tr>
 <td width="450"><a href="https://github.com/awwkk/usdom/blob/master/dong/Green_iPPOTV.exe?raw=true"><h5 align="center">爱博电视桌机版.下载  (完全免费 .安全. 无毒)</a></h4></td>
 
-<td width="450"><a href="https://github.com/awwkk/usdom/blob/master/video/ippotvm.mp4?raw=true"><h5 align="center">爱博电视桌机板 (安裝教学).下载 </a></h4></td>
+<td width="450"><a href="https://github.com/awwkk/usdom/blob/master/vidio/ippotvm.mp4?raw=true"><h5 align="center">爱博电视桌机板 (安裝教学).下载 </a></h4></td>
 </tr>
 </table>
   <br/>
@@ -196,7 +196,7 @@
 
 <td><a href="https://github.com/awwkk/usdom/blob/master/dong/Green_iPPOTV.exe?raw=true"><h4 align="center">(爱博电视)桌机版</a></h4></td>
 
-<td><a href="https://github.com/awwkk/usdom/blob/master/video/ippotvm.mp4?raw=true"><h4 align="center">爱博电视 (安裝教学)</a></h4></td>
+<td><a href="https://github.com/awwkk/usdom/blob/master/vidio/ippotvm.mp4?raw=true"><h4 align="center">爱博电视 (安裝教学)</a></h4></td>
 
 </tr>
 </table>
