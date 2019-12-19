@@ -16,7 +16,7 @@
 <IMG SRC="img/2018_SYSO_EC_WC_Xmas_Web-600x400.png" width=880></div>
 <div align="center"> 2019年圣诞节和新年期间，新唐人电视台将独家播出《2018神韵交响乐团音乐会》。（新唐人）</div></P>
   
-  <div align="center"><h2><a href="https://youtu.be/1Oo4batsd7c">【预告】新唐人圣诞新年期间播放神韵交响乐</h2></a></div>
+  <div align="center"><h2><a href="https://youtu.be/1Oo4batsd7c">【预告】新唐人圣诞、新年期间播放神韵交响乐</h2></a></div>
 
 【大纪元2019年12月17日讯】2019年圣诞节和新年期间，新唐人电视台将独家播出《2018神韵交响乐团音乐会》，即分别在纽约、休斯顿、美西、大陆、欧洲频道播放。同时，新唐人网站（www.ntdtv.com）首页直播窗口和Roku也同步播放，时长90分钟。
 
@@ -84,7 +84,7 @@
 
 <div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视《2018神韵交响乐团音乐会》方法(一)</h3></a></div> 
 <div align="center">
-<IMG SRC="img/2018-02-13_021319.jpg" width=880>
+<IMG SRC="img/2018-02-13_021319.jpg" width=680>
   </div></P>
 <h3 align="center"><a href="https://github.com/awwkk/usdom/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 可通过爱博电视收看新唐人中国频道，请选用中国频道400，收看《2018神韵交响乐团音乐会》◆ </h3</a>
 </p>
@@ -106,7 +106,7 @@
 <IMG SRC="img/b_ornament_17_0M.png" width=880></div>
   
 
-  <div align="center"><h4><a href="http://nn.epub.vin/sy">中国大陆收视《神韵晚会》方法(二)</h4></a></div> 
+  <div align="center"><h4><a href="http://nn.epub.vin/sy">中国大陆收视《2018神韵交响乐团音乐会》方法(二)</h4></a></div> 
 
 <h3 align="center"><a href="http://nn.epub.vin/sy">◆ 可通过韩星五A号的新唐人中国频道收看《2018神韵交响乐团音乐会》</a></h3>
 
@@ -164,7 +164,7 @@
 
 
  
-<div align="center"><h3><a href="http://kk.epub.vin/sy">中国大陆收视《神韵交响乐团》方法</h3></a></div> 
+<div align="center"><h3><a href="http://kk.epub.vin/sy">中国大陆收视《神韵交响乐团》方法(三)</h3></a></div> 
 
 <div align="center"><h3><a href="http://kk.epub.vin/sy">◆ 请通过翻墙软件自由门、无界浏览或 iNTD TV 、爱博电视收看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
 
@@ -199,7 +199,7 @@
 </table>
  <br/>
 <div align="center">
-<IMG SRC="img/INTDTV.png" width=880>
+<IMG SRC="img/INTDTV.png" width=680>
   </div>
 <a href="https://github.com/awwkk/usdom/blob/master/dong/iNTD_TVsp1.apk?raw=true"><h4 align="center">新唐人安卓版 iNTD TV 可以用于安卓机顶盒，平板电脑，和手机。在安装安卓版 iNTD TV 后，中国大陆用户无需借助翻墙工具，可以直接通过安卓版 iNTD TV 收看新唐人直播或点播节目。</a></h4>
 
