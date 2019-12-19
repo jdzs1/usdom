@@ -1,10 +1,10 @@
 
 <div align="center">
 <IMG SRC="img/4035.png_860.png" width=880>
-  </div>
+  </div></P>
 
 <div align="center">
-<IMG SRC="img/2019-02-03_155226.jpg" width=880>
+<a href="https://youtu.be/1Oo4batsd7c"><IMG SRC="img/2019-02-03_155226.jpg" width=880></a>
   </div>
 
  <div align="center"><h2><a href="http://36.228.2.212"> 观看更多影片  http://36.228.2.212  </h2></a></div>
@@ -83,7 +83,9 @@
 
 
 <div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视《2018神韵交响乐团音乐会》方法(一)</h3></a></div> 
-
+<div align="center">
+<IMG SRC="img/2018-02-13_021319.jpg" width=880>
+  </div></P>
 <h3 align="center"><a href="https://github.com/awwkk/usdom/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 可通过爱博电视收看新唐人中国频道，请选用中国频道400，收看《2018神韵交响乐团音乐会》◆ </h3</a>
 </p>
 	
