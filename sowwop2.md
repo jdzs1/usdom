@@ -4,17 +4,17 @@
   </div></P>
 
 <div align="center">
-<a href="https://youtu.be/1Oo4batsd7c"><IMG SRC="img/2019-02-03_155226.jpg" width=880></a>
+<a href="https://youtu.be/1Oo4batsd7c"><IMG SRC="img/2019-12-19_221444.jpg" width=880></a>
   </div>
+
+<div align="center">观看预告片 https://youtu.be/1Oo4batsd7c</div></P>
 
  <div align="center"><h2><a href="http://36.228.2.212"> 观看更多影片  http://36.228.2.212  </h2></a></div>
 
  <div align="center"><h3><a href="https://youtu.be/1Oo4batsd7c">请大家告诉大家，错过可能得等一年！</h3> </div>
-<br/>
+</P>
 
-<div align="center">
-<IMG SRC="img/2018_SYSO_EC_WC_Xmas_Web-600x400.png" width=880></div>
-<div align="center"> 2019年圣诞节和新年期间，新唐人电视台将独家播出《2018神韵交响乐团音乐会》。（新唐人）</div></P>
+
   
   <div align="center"><h2><a href="https://youtu.be/1Oo4batsd7c">【预告】新唐人圣诞、新年期间播放神韵交响乐</h2></a></div>
 
