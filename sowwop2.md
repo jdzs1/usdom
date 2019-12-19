@@ -84,16 +84,16 @@
 
 <div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视《2018神韵交响乐团音乐会》方法(一)</h3></a></div> 
 <div align="center">
-<IMG SRC="img/2018-02-13_021319.jpg" width=680>
+<IMG SRC="img/2018-02-13_021319.jpg" width=480>
   </div></P>
-<h3 align="center"><a href="https://github.com/awwkk/usdom/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 可通过爱博电视收看新唐人中国频道，请选用中国频道400，收看《2018神韵交响乐团音乐会》◆ </h3</a>
+<h3 align="center"><a href="https://github.com/awwkk/usdom/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 可通过爱博电视收看新唐人中国频道，请选用中国频道400收看。◆ </h3</a>
 </p>
 	
 <table>
 <tr>
-<td width="450"><a href="https://github.com/awwkk/usdom/blob/master/dong/Green_iPPOTV.exe?raw=true"><h4 align="center">爱博电视桌机版.下载  (完全免费 .安全. 无毒)</a></h4></td>
+<td width="450"><a href="https://github.com/awwkk/usdom/blob/master/dong/Green_iPPOTV.exe?raw=true"><h5 align="center">爱博电视桌机版.下载  (完全免费 .安全. 无毒)</a></h4></td>
 
-<td width="450"><a href="https://github.com/awwkk/usdom/blob/master/video/ippotvm.mp4?raw=true"><h4 align="center">爱博电视桌机板 (安裝教学).下载 </a></h4></td>
+<td width="450"><a href="https://github.com/awwkk/usdom/blob/master/video/ippotvm.mp4?raw=true"><h5 align="center">爱博电视桌机板 (安裝教学).下载 </a></h4></td>
 </tr>
 </table>
   <br/>
@@ -108,7 +108,7 @@
 
   <div align="center"><h4><a href="http://nn.epub.vin/sy">中国大陆收视《2018神韵交响乐团音乐会》方法(二)</h4></a></div> 
 
-<h3 align="center"><a href="http://nn.epub.vin/sy">◆ 可通过韩星五A号的新唐人中国频道收看《2018神韵交响乐团音乐会》</a></h3>
+<h3 align="center"><a href="http://nn.epub.vin/sy">◆ 可通过韩星五A号的新唐人中国频道收看</a></h3>
 
  <br/>
 <div align="center"><h3>韩星5A号的播出参数</h3></div>
@@ -199,7 +199,7 @@
 </table>
  <br/>
 <div align="center">
-<IMG SRC="img/INTDTV.png" width=680>
+<IMG SRC="img/INTDTV.png" width=480>
   </div>
 <a href="https://github.com/awwkk/usdom/blob/master/dong/iNTD_TVsp1.apk?raw=true"><h4 align="center">新唐人安卓版 iNTD TV 可以用于安卓机顶盒，平板电脑，和手机。在安装安卓版 iNTD TV 后，中国大陆用户无需借助翻墙工具，可以直接通过安卓版 iNTD TV 收看新唐人直播或点播节目。</a></h4>
 
