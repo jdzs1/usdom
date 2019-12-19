@@ -81,6 +81,9 @@
 </table>
 <br/>
 
+<div align="center">
+<IMG SRC="img/4035.png_860.png" width=880>
+  </div></P>
 
 <div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视《2018神韵交响乐团音乐会》方法(一)</h3></a></div> 
 <div align="center">
