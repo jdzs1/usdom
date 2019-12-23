@@ -235,7 +235,7 @@
 
 <div align="center">
 <img src="img/b_ornament_114_0M.png"></div></p>
-<a href=#list><h4 align="right">回目錄</a></h4>
+<a href=#list><h4 align="right">回上方</a></h4>
 <div align=center> 
 <a name=1><h2>知名乐评人：神进入神韵音乐 拯救人的灵魂</h2></div> </p>
 
@@ -292,7 +292,7 @@
 
 <div align="center">
 <img src="img/b_ornament_114_0M.png"></div></p>
-<a href=#list><h4 align="right">回目錄</a></h4>
+<a href=#list><h4 align="right">回上方</a></h4>
 <div align=center> 
 <a name=2><h2>“与宇宙相连”指挥家赞神韵交响乐宏大无比</h2></div> 
 
@@ -323,7 +323,7 @@ Kathleen也赞佩道：“神性贯穿在整个交响乐团，你能感觉到她
 
 <div align="center">
 <img src="img/b_ornament_114_0M.png"></div></p>
-<a href=#list><h4 align="right">回目錄</a></h4>
+<a href=#list><h4 align="right">回上方</a></h4>
 <div align=center> 
 <a name=3><h2>“11场连续大爆满 神韵交响乐台湾完美落幕</h2></div> </p>
 
