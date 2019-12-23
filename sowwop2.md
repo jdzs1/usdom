@@ -30,6 +30,10 @@
 <div align="center">2019年10月2日晚间，新竹市文化局演艺厅是神韵交响乐团2019年度在台湾的最后一场演出，演出出现爆满的盛况。（龚安妮／大纪元）</div>
 <div align="center">11场连续大爆满 神韵交响乐台湾完美落幕</div></P>
 
+<div align="center">
+<IMG SRC="img/f12.jpg" width=880>
+  </div></p>
+
   <div align="center"><h2><a href="https://youtu.be/1Oo4batsd7c">【预告】新唐人圣诞、新年期间播放神韵交响乐</h2></a></div>
 
 【大纪元2019年12月17日讯】2019年圣诞节和新年期间，新唐人电视台将独家播出《2018神韵交响乐团音乐会》，即分别在纽约、休斯顿、美西、大陆、欧洲频道播放。同时，新唐人网站（www.ntdtv.com）首页直播窗口和Roku也同步播放，时长90分钟。
@@ -98,6 +102,10 @@
 <div align="center">
 <IMG SRC="img/2018_SYSO_EC_WC_Xmas_Web-600x400.png" width=880>
   </div></P>
+
+<div align="center">
+<IMG SRC="img/f12.jpg" width=880>
+  </div></p>
 
 <div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视《2018神韵交响乐团音乐会》方法(一)</h3></a></div> 
 <div align="center">
@@ -177,10 +185,10 @@
 新唐人电视台 2018年9月16日</p>
  <br/>
  
-<hr>
+<div align="center">
+<IMG SRC="img/f12.jpg" width=880>
+  </div></p>
 
-
- 
 <div align="center"><h3><a href="http://kk.epub.vin/sy">中国大陆收视《神韵交响乐团》方法(三)</h3></a></div> 
 
 <div align="center"><h3><a href="http://kk.epub.vin/sy">◆ 请通过翻墙软件自由门、无界浏览或 iNTD TV 、爱博电视收看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
@@ -222,15 +230,18 @@
 
  <br/>
 
-
-
-
+<div align="center">
+<IMG SRC="img/f12.jpg" width=880>
+  </div></p>
 
 知名乐评人：神进入神韵音乐 拯救人的灵魂
 
+<div align="center">
+<IMG SRC="img/1909230701012384-600x400.jpg" width=880>
+  </div>
+<div align="center">2019年9月23日午间，神韵交响乐团在台北国家音乐厅演出。（陈柏州／大纪元）</div></p>
 
-
-【大纪元2019年09月24日讯】（大纪元台湾台北记者站报导）9月23日下午，享誉全球的神韵交响乐团来到台北国家音乐厅，为大台北政商、企业、艺文等各界名流带来温馨丰美的午后时光。神韵美妙乐音让满场观众为之陶醉，二首安可曲更将全场气氛带到最高点，观众起立鼓掌，欲罢不能。
+【大纪元2019年09月24日讯】（大纪元台湾台北记者站报导）9月23日下午，享誉全球的神韵交响乐团来到台北国家音乐厅，为大台北政商、企业、艺文等各界名流带来温馨丰美的午后时光。神韵美妙乐音让满场观众为之陶醉，二首安可曲更将全场气氛带到最高点，观众起立鼓掌，欲罢不能。</p>
 
 知名音乐家、乐评人徐家元首度现场聆赏神韵交响乐，他盛赞：“这是我在台湾听过最好的乐团，觉得非常感动。”他同时感受到音乐中强大的神性力量，“就好像神活在我们人间的感觉。”
 
