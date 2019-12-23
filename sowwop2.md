@@ -31,7 +31,7 @@
 <div align="center"><a href="#3">➤11场连续大爆满 神韵交响乐台湾完美落幕</a></div></P>
 
 <div align="center">
-<IMG SRC="img/f12.jpg" width=480>
+<IMG SRC="img/fngrchn.jpg" width=480>
   </div></p>
 
   <div align="center"><h2><a href="https://youtu.be/1Oo4batsd7c">【预告】新唐人圣诞、新年期间播放神韵交响乐</h2></a></div>
@@ -104,7 +104,7 @@
   </div></P>
 
 <div align="center">
-<IMG SRC="img/f12.jpg" width=480>
+<IMG SRC="img/fngrchn.jpg" width=480>
   </div></p>
 
 <div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视《2018神韵交响乐团音乐会》方法(一)</h3></a></div> 
@@ -128,7 +128,7 @@
   
   
  <div align="center">
-<IMG SRC="img/f12.jpg" width=480>
+<IMG SRC="img/fngrchn.jpg" width=480>
   </div></p>
   
 
@@ -187,7 +187,7 @@
  <br/>
  
 <div align="center">
-<IMG SRC="img/f12.jpg" width=480>
+<IMG SRC="img/fngrchn.jpg" width=480>
   </div></p>
 
 <div align="center"><h3><a href="http://kk.epub.vin/sy">中国大陆收视《神韵交响乐团》方法(三)</h3></a></div> 
@@ -234,7 +234,7 @@
 
 
 <div align="center">
-<img src="img/b_ornament_17_0M.png"></div></p>
+<img src="img/b_ornament_114_0M.png"></div></p>
 <a href=#list><h4 align="right">回目錄</a></h4>
 <div align=center> 
 <a name=1><h2>知名乐评人：神进入神韵音乐 拯救人的灵魂</h2></div> </p>
