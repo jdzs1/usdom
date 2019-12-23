@@ -127,8 +127,9 @@
   一款用于实时视频流共享的软件平台，高效稳定的视频传输技术带给用户崭新的视听体验。爱博电视具有突破封锁的得天独厚的优势。</p>
   
   
-  <div align="center">
-<IMG SRC="img/b_ornament_17_0M.png" width=880></div>
+ <div align="center">
+<IMG SRC="img/f12.jpg" width=880>
+  </div></p>
   
 
   <div align="center"><h4><a href="http://nn.epub.vin/sy">中国大陆收视《2018神韵交响乐团音乐会》方法(二)</h4></a></div> 
@@ -230,11 +231,13 @@
 
  <br/>
 
-<div align="center">
-<IMG SRC="img/f12.jpg" width=880>
-  </div></p>
 
-知名乐评人：神进入神韵音乐 拯救人的灵魂
+
+<div align="center">
+<img src="img/b_ornament_17_0M.png"></div></p>
+<a href=#list><h4 align="right">回目錄</a></h4>
+<div align=center> 
+<a name=1><h2>知名乐评人：神进入神韵音乐 拯救人的灵魂</h2></div> </p>
 
 <div align="center">
 <IMG SRC="img/1909230701012384-600x400.jpg" width=880>
@@ -287,8 +290,12 @@
 责任编辑：于嫚</p>
 
 
+<div align="center">
+<img src="img/b_ornament_17_0M.png"></div></p>
+<a href=#list><h4 align="right">回目錄</a></h4>
+<div align=center> 
+<a name=2><h2>“与宇宙相连”指挥家赞神韵交响乐宏大无比</h2></div> </p>
 
-“与宇宙相连”指挥家赞神韵交响乐宏大无比
  <div align="center">
 <IMG SRC="img/1910260019292153-600x400.jpg" width=880></div></p>
   <div align="center">指挥家Arthur Comegno与友人Kathleen（护士）于10月25日晚，在波士顿交响乐厅，聆听了神韵交响乐团的音乐演奏会。（甄秀欣／大纪元）</div></p> 
@@ -314,7 +321,11 @@ Kathleen也赞佩道：“神性贯穿在整个交响乐团，你能感觉到她
 责任编辑：夏晶</p>
 
 
-11场连续大爆满 神韵交响乐台湾完美落幕
+<div align="center">
+<img src="img/b_ornament_17_0M.png"></div></p>
+<a href=#list><h4 align="right">回目錄</a></h4>
+<div align=center> 
+<a name=3><h2>“11场连续大爆满 神韵交响乐台湾完美落幕</h2></div> </p>
 
 【大纪元2019年10月03日讯】（大纪元台湾新竹记者站报导）“安可、安可、安可、安可”全场观众有节奏性的鼓掌、呼喊，希望能再听一曲！2019年神韵交响乐团在台湾巡回演出的最后一站来到新竹市文化局演艺厅，演出结束后，观众起立鼓掌致敬，在两首安可曲后，全场观众仍意犹未尽，持续喊着“安可”、“Encore！”长达近10分钟的掌声，让全场气氛沸腾到最高点，最后艺术家们两次谢幕向观众致意，也为神韵交响乐团的压轴演出划下完美的句点。观众都说：“手都拍到好痛，但真的好好听、好过瘾！”
 
