@@ -1,3 +1,7 @@
+<div align="center">
+<IMG SRC="img/imgad.jpg" width=880>
+  </div></P>
+
 
 <div align="center">
 <IMG SRC="img/4035.png_860.png" width=880>
